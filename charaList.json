@@ -722,160 +722,160 @@
   },
   {
     "id": 1203,
-    "name": "鶴乃・フェリシア",
-    "kana": "つるの・ふぇりしあ",
-    "title": "宅配ver.",
+    "name": "Tsuruno & Felicia",
+    "kana": "Tsuruno & Felicia",
+    "title": "(Special Delivery)",
     "description": "クリスマスが永遠に続く不思議な地で、「世界の果て」を目指して旅するふたりの魔法少女。カスタムバイク「スーパートナカイさん２号」で、みんなに笑顔を配達しながら旅を続けている。背中のオカモチはクリスマスの魔法がかかった特別製。",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "夏川椎菜、佐倉綾音"
+    "voiceActor": "Shiina Natsukawa & Ayane Sakura"
   },
   {
     "id": 1209,
-    "name": "レナ・かえで",
-    "kana": "れな かえで",
+    "name": "Rena & Kaede",
+    "kana": "Rena & Kaede",
     "title": "(Swimsuit)",
     "description": "夏の海で遊ぶのが大好きな、仲良しの魔法少女。＠水着を用意して海を満喫する気満々のふたりだが、海へ行くたびにトラブルに巻き込まれては、ももこに慰められている。ビーチボールとパラソルを使った緩急のある攻撃が得意。",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "石原夏織、大橋彩香"
+    "voiceActor": "Kaori Ishihara & Ayaka Oohashi"
   },
   {
     "id": 1210,
-    "name": "ももこ・みたま",
-    "kana": "ももこ・みたま",
-    "title": "人魚ver.",
+    "name": "Momoko & Mitama",
+    "kana": "Momoko & Mitama",
+    "title": "(Mermaid)",
     "description": "巫にまつわる伝承を調べるなかで、人魚の力を得た魔法少女。水着をもとにした人魚の格好がお気に入りのみたまに対し、ももこは気恥ずかしさを感じている。みたまの提案で、ふたりが人魚になるときは誰もいない静かな海で、と約束した。",
     "school": "―",
-    "designer": "aokiume、ぷにゃん",
-    "voiceActor": "小松未可子、堀江由衣"
+    "designer": "aokiume、Punyan",
+    "voiceActor": "Mikako Komatsu & Yui Horie"
   },
   {
     "id": 1216,
-    "name": "和泉 十七夜",
-    "kana": "いずみ かなぎ",
-    "title": "常闇ver.",
+    "name": "Kanagi Izumi",
+    "kana": "Kanagi Izumi",
+    "title": "(Everlasting Darkness)",
     "description": "滅びの果てにある平等を信じる魔法少女。調整によって悲しみを取り込んだことにより、常に悲しみに囚われている。神浜市に生きる人々にとって共通の敵となり、一致団結させることを目的としており、そのためであれば自分の命も投げ打つ覚悟。",
     "school": "Daito Academy",
-    "designer": "ササギコウシ",
-    "voiceActor": "千本木彩花"
+    "designer": "Sasagi Koushi",
+    "voiceActor": "Sayaka Senbongi"
   },
   {
     "id": 1217,
-    "name": "八雲 みたま",
-    "kana": "やくも みたま",
-    "title": "常闇ver.",
+    "name": "Mitama Yakumo",
+    "kana": "Mitama Yakumo",
+    "title": "(Everlasting Darkness)",
     "description": "抗うことを諦めて愛するものさえ壊すことを選んだ魔法少女。調整によって悲しみを取り込んだことにより、常に悲しみに囚われている。一度は見えた希望が枯れた今、最小限の被害でかつての願いを形にすることだけが残された道となった。",
     "school": "Daito Academy",
     "designer": "Punyan",
-    "voiceActor": "堀江由衣"
+    "voiceActor": "Yui Horie"
   },
   {
     "id": 1301,
-    "name": "いろは・やちよ",
-    "kana": "いろは・やちよ",
-    "title": "決戦ver.",
-    "description": "かつて強大な魔女と戦った際に背中を支えてくれた力を、一時的に手に入れた魔法少女。出会いこそ敵同士だったが、共に行動をする中で親密になり、いつしか切っても切れない絆で結ばれていた。羽は力を宿した瞬間など、一瞬しか現れない。",
+    "name": "Iroha & Yachiyo",
+    "kana": "Iroha & Yachiyo",
+    "title": "(Final Battle)",
+    "description": "This Magical Girl pair was able to obtain a strength that support them during a battle with an overwhelmingly strong Witch. Although they started off as enemies, they wound up becoming the best of friends, connected by a unbreakable bond. They wings can only be seen the moment that power is ready.",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "麻倉もも、雨宮天"
+    "voiceActor": "Momo Asakura & Sora Amamiya"
   },
   {
     "id": 1302,
-    "name": "七海 やちよ",
-    "kana": "ななみ やちよ",
-    "title": "アニメver.",
-    "description": "神浜市のベテラン魔法少女。大学生。神浜市や魔法少女についての情報に精通し、チームには属さずひとりで活動。テリトリー意識が強く、実力の伴わない他の地域の魔法少女には厳しく接する。神浜市で発生している「噂」をファイリングしている。",
-    "school": "神浜市立大学",
+    "name": "Yachiyo Nanami",
+    "kana": "Yachiyo Nanami",
+    "title": "(Anime)",
+    "description": "Kamihama's veteran Magical Girl. A university student. She is very knowledgeable about Kamihama City and Magical Girls, and prefers to work alone. She is very territorial and harsh towards weak Magical Girls from other regions. She is compiling the \"Rumors\" occurring in the city.",
+    "school": "Kamihama University",
     "designer": "aokiume",
-    "voiceActor": "雨宮天"
+    "voiceActor": "Sora Amamiya"
   },
   {
     "id": 1303,
-    "name": "ウワサの鶴乃",
-    "kana": "うわさの つるの",
-    "title": "アニメver.",
+    "name": "Uwasa Tsuruno",
+    "kana": "Uwasa Tsuruno",
+    "title": "(Anime)",
     "description": "キレートマスコットのウワサと一体化した魔法少女。誰もがリラックスできるような遊園地にするため、訪れた魔法少女にはのんびりすることを持ち掛ける。それでものんびりしない相手には鋭く光る電撃と遊具を使った変則技で強制的に従わせる。",
     "school": "Kamihama University Affiliated School",
     "designer": "aokiume",
-    "voiceActor": "夏川椎菜"
+    "voiceActor": "Shiina Natsukawa"
   },
   {
     "id": 1309,
-    "name": "水波 レナ",
-    "kana": "みなみ れな",
-    "title": "アニメver.",
+    "name": "Rena Minami",
+    "kana": "Rena Minami",
+    "title": "(Anime)",
     "description": "ももこ、かえでとチームで活動する魔法少女。思っていることを素直に表現できない不器用な性格なため、誤解されやすく友だちが少ない。かえでと喧嘩することもしばしばだが、お揃いのストラップを大事にするなど可愛らしい一面もある。",
     "school": "Kamihama University Affiliated School",
     "designer": "aokiume",
-    "voiceActor": "石原夏織"
+    "voiceActor": "Kaori Ishihara"
   },
   {
     "id": 1401,
-    "name": "いろは・うい",
-    "kana": "いろは・うい",
-    "title": "巫女ver.",
+    "name": "Iroha & Ui",
+    "kana": "Iroha & Ui",
+    "title": "(Shrine Maiden)",
     "description": "正月の神社を巫女服でお手伝いする、仲良し姉妹の魔法少女。境内の案内から神楽まで互いに支え合いながら巫女として神社に仕えている。不安なことは、神社に関する用語を覚えることと、同級生と遭遇するかもしれないこと。",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "麻倉もも、石見舞菜香"
+    "voiceActor": "Momo Asakura & Manaka Iwami"
   },
   {
     "id": 1402,
-    "name": "七海 やちよ",
-    "kana": "ななみ やちよ",
-    "title": "おとぎ話ver.",
+    "name": "Yachiyo Nanami",
+    "kana": "Yachiyo Nanami",
+    "title": "(Fairy Tale)",
     "description": "タイムカプセルがきっかけとなり、心が小学生に戻ってしまった魔法少女。当時から大人びており、よく観察しないと普段との違いが判らない。変身後は昔演じた「氷の女王」の影響を受けている。ただ、当時から演技は上手ではなかった。",
-    "school": "神浜市立大学",
+    "school": "Kamihama University",
     "designer": "aokiume",
-    "voiceActor": "雨宮天"
+    "voiceActor": "Sora Amamiya"
   },
   {
     "id": 1501,
-    "name": "環 いろは",
-    "kana": "たまき いろは",
-    "title": "アニメver.",
+    "name": "Iroha Tamaki",
+    "kana": "Iroha Tamaki",
+    "title": "(Anime)",
     "description": "宝崎市に住む魔法少女。しっかり者な性格だが、まわりに気をつかいすぎてしまう面もあり、クラスでは少し浮いてしまっている。消えた妹を探すべく、とある噂を手掛かりに神浜市へ向かうことになる。",
     "school": "Kamihama University Affiliated School",
     "designer": "aokiume",
-    "voiceActor": "麻倉もも"
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1502,
-    "name": "七海 やちよ",
-    "kana": "ななみ やちよ",
-    "title": "ヒストリアver.",
+    "name": "Yachiyo Nanami",
+    "kana": "Yachiyo Nanami",
+    "title": "(Historia)",
     "description": "多くの希望を集めたことにより姿を変えた魔法少女。手にした槍は希望の持ち主である魔法少女たちの色を反映させ、豊かな色彩を放っている。伝え聞くところによると、その槍で未来への障壁を打ち砕き、希望を届ける役割を持っているらしい。",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "雨宮天"
+    "voiceActor": "Sora Amamiya"
   },
   {
     "id": 1601,
-    "name": "∞いろは",
-    "kana": "いんふぃにっといろは",
+    "name": "∞Iroha",
+    "kana": "Infinite Iroha",
     "description": "救いを求める魔法少女に、明日を与える力を身に付けた少女。三位一体となって成立したこの姿の中には、目には見えないふたりの姿が隠されている。普段は他の少女たちと共同生活を送って慌ただしく過ごしているが、その理由はわからない。",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "麻倉もも"
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1701,
-    "name": "無限大いろはちゃん",
-    "kana": "むげんだいいろはちゃん",
+    "name": "Infinite Iroha-chan",
+    "kana": "Infinite Iroha-chan",
     "description": "平行宇宙のいろはたちが直列コネクトによって合体した、無限大の可能性を持つ魔法少女。存在の不安定さから次元の壁を超える様々な歪みを生み出しながらも、各世界で巻き起こるトラブルを解決していく。合体前と合体後で、いろは達の人数がいつも何人か違っているらしく、次からは点呼をとることに決めた。",
     "school": "―",
     "designer": "PAPA",
-    "voiceActor": "麻倉もも"
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1801,
-    "name": "いろは・黒江",
-    "kana": "いろは・くろえ",
-    "description": "同じ宝崎市の出身で、互いに信頼し合っている魔法少女。密かにいろはに憧れる黒江は、いつか人に必要とされる存在になれたらと思っている。緊張するという理由で黒江は断ってきたが、今度みかづき荘へ遊びに行くことをいろはと約束した。",
+    "name": "Iroha & Kuroe",
+    "kana": "Iroha & Kuroe",
+    "description": "A pair of Magical Girls from Takarazaki who trust deeply in each other. Kuroe, who secretly admires Iroha, is aspiring to become someone as valued as her one day. Though initially refusing due to anxiety, Kuroe eventually promised Iroha that she'd come hang out at Mikazuki Villa soon.",
     "school": "―",
     "designer": "aokiume",
-    "voiceActor": "麻倉もも、花澤香菜"
+    "voiceActor": "Momo Asakura & Kana Hanazawa"
   },
   {
     "id": 2001,
@@ -1126,7 +1126,7 @@
     "id": 2502,
     "name": "ホーリーマミ",
     "kana": "ほーりーまみ",
-    "title": "アニメver.",
+    "title": "(Anime)",
     "description": "神浜聖女のウワサと一体化した、見滝原市の魔法少女。まどかたちを魔法少女に誘ったことに責任を感じて、魔法少女を運命から解放するために活動している。マギウスの翼の理念と対立する者には一切容赦しない。",
     "school": "見滝原中学校",
     "designer": "劇団イヌカレー（泥犬）",
@@ -1252,7 +1252,7 @@
     "kana": "ほずみ しずく",
     "description": "居場所を求めてさ迷い歩く、どこかつかみどころのない魔法少女。＠好きなもの、将来の夢など、自分自身のアイデンティティを見付けら＠れないがゆえに、未来に対する漠然とした不安を抱えている。＠純喫茶の一人娘らしく、いつも落ち着いている。",
     "school": "Sankyoin Academy",
-    "designer": "ササギコウシ",
+    "designer": "Sasagi Koushi",
     "voiceActor": "七瀬彩夏"
   },
   {
@@ -1777,7 +1777,7 @@
     "kana": "くろ",
     "description": "―",
     "school": "―",
-    "designer": "ササギコウシ",
+    "designer": "Sasagi Koushi",
     "voiceActor": "―"
   },
   {
