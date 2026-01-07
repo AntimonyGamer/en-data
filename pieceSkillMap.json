@@ -489,11 +489,11 @@
   },
   "105200": {
     "name": "Morale Adept [III]",
-    "shortDescription": "MP Gain UP [III]"
+    "shortDescription": "MP Gain DOWN UP [III]"
   },
   "105201": {
     "name": "Morale Adept [IV]",
-    "shortDescription": "MP Gain UP [IV]"
+    "shortDescription": "MP Gain DOWN UP [IV]"
   },
   "105310": {
     "name": "Quell Guard [VII]",
@@ -665,11 +665,11 @@
   },
   "107600": {
     "name": "Morale UP [IX]",
-    "shortDescription": "MP Gain UP [IX] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [IX] (Self/1 Turn)"
   },
   "107601": {
     "name": "Morale UP [X]",
-    "shortDescription": "MP Gain UP [X] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [X] (Self/1 Turn)"
   },
   "107700": {
     "name": "Draw Charge",
@@ -953,11 +953,11 @@
   },
   "111400": {
     "name": "Morale UP [IX]",
-    "shortDescription": "MP Gain UP [IX] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [IX] (Self/1 Turn)"
   },
   "111401": {
     "name": "Morale UP [X]",
-    "shortDescription": "MP Gain UP [X] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [X] (Self/1 Turn)"
   },
   "111500": {
     "name": "Magia UP [V]",
@@ -1201,11 +1201,11 @@
   },
   "114500": {
     "name": "Clever Adept [III]",
-    "shortDescription": "MP Gain UP [III] / Get More MP when Hit by Weak Element [I]"
+    "shortDescription": "MP Gain DOWN UP [III] / Get More MP when Hit by Weak Element [I]"
   },
   "114501": {
     "name": "Clever Adept [IV]",
-    "shortDescription": "MP Gain UP [IV] / Get More MP when Hit by Weak Element [II]"
+    "shortDescription": "MP Gain DOWN UP [IV] / Get More MP when Hit by Weak Element [II]"
   },
   "114600": {
     "name": "Magia UP [IX]",
@@ -1241,11 +1241,11 @@
   },
   "115000": {
     "name": "Morale UP [IX]",
-    "shortDescription": "MP Gain UP [IX] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [IX] (Self/1 Turn)"
   },
   "115001": {
     "name": "Morale UP [X]",
-    "shortDescription": "MP Gain UP [X] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [X] (Self/1 Turn)"
   },
   "115100": {
     "name": "Diversion [VIII]",
@@ -1433,11 +1433,11 @@
   },
   "117500": {
     "name": "Hope and Despair",
-    "shortDescription": "MP Gain UP [V] / Magia Damage UP [VII] & Bonus During the Final Battle of \"The Maiden of Hope\"..."
+    "shortDescription": "MP Gain DOWN UP [V] / Magia Damage UP [VII] & Bonus During the Final Battle of \"The Maiden of Hope\"..."
   },
   "117501": {
     "name": "Hope and Despair",
-    "shortDescription": "MP Gain UP [V] / Magia Damage UP [IX] & Bonus During the Final Battle of \"The Maiden of Hope\"..."
+    "shortDescription": "MP Gain DOWN UP [V] / Magia Damage UP [IX] & Bonus During the Final Battle of \"The Maiden of Hope\"..."
   },
   "117600": {
     "name": "Full Throttle Adept [IV]",
@@ -1473,11 +1473,11 @@
   },
   "118000": {
     "name": "Venom Artisan [IV]",
-    "shortDescription": "Guaranteed Poison無効 / Damage UP on Enemies with Status Ailments [IV]"
+    "shortDescription": "Negate Poison / Damage UP on Enemies with Status Ailments [IV]"
   },
   "118001": {
     "name": "Venom Artisan [V]",
-    "shortDescription": "Guaranteed Poison無効 / Damage UP on Enemies with Status Ailments [V]"
+    "shortDescription": "Negate Poison / Damage UP on Enemies with Status Ailments [V]"
   },
   "118100": {
     "name": "Curse Chip Adept [II]",
@@ -1497,11 +1497,11 @@
   },
   "118300": {
     "name": "Morale UP [IX]",
-    "shortDescription": "MP Gain UP [IX] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [IX] (Self/1 Turn)"
   },
   "118301": {
     "name": "Morale UP [X]",
-    "shortDescription": "MP Gain UP [X] (Self/1 Turn)"
+    "shortDescription": "MP Gain DOWN UP [X] (Self/1 Turn)"
   },
   "118400": {
     "name": "Elemental Draw",
@@ -1937,11 +1937,11 @@
   },
   "123900": {
     "name": "Glitter Adept [III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [II]"
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [II]"
   },
   "123901": {
     "name": "Glitter Adept [IV]",
-    "shortDescription": "ATK UP [IV] / MP Gain UP [IV]"
+    "shortDescription": "ATK UP [IV] / MP Gain DOWN UP [IV]"
   },
   "124000": {
     "name": "Uplift [IV]",
@@ -2137,11 +2137,11 @@
   },
   "126600": {
     "name": "Morale Master [II]",
-    "shortDescription": "MP Gain UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "126601": {
     "name": "Morale Master [III]",
-    "shortDescription": "MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "126700": {
     "name": "Smite Adept [II]",
@@ -2217,11 +2217,11 @@
   },
   "127600": {
     "name": "Glitter Adept [II]",
-    "shortDescription": "ATK UP [II] / MP Gain UP [I]"
+    "shortDescription": "ATK UP [II] / MP Gain DOWN UP [I]"
   },
   "127601": {
     "name": "Glitter Adept [III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [II]"
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [II]"
   },
   "127700": {
     "name": "Crisis Bloom [III]",
@@ -2265,11 +2265,11 @@
   },
   "128200": {
     "name": "Clever Adept [II]",
-    "shortDescription": "MP Gain UP [II] / Get More MP when Hit by Weak Element [I]"
+    "shortDescription": "MP Gain DOWN UP [II] / Get More MP when Hit by Weak Element [I]"
   },
   "128201": {
     "name": "Clever Adept [III]",
-    "shortDescription": "MP Gain UP [III] / Get More MP when Hit by Weak Element [I]"
+    "shortDescription": "MP Gain DOWN UP [III] / Get More MP when Hit by Weak Element [I]"
   },
   "128300": {
     "name": "Snail Advantage [II]",
@@ -2296,27 +2296,27 @@
     "shortDescription": "Fog Chance [VII] (All Foes/1 Turn) / Damage UP on Enemies with Status Ailments [V] (Self/1 Turn)"
   },
   "128600": {
-    "name": "フィーライン・ロバストネス[III]",
+    "name": "Feline Robustness [III]",
     "shortDescription": "Magia Damage UP [III] / ATK UP [III]"
   },
   "128601": {
-    "name": "フィーライン・ロバストネス[IV]",
+    "name": "Feline Robustness [IV]",
     "shortDescription": "Magia Damage UP [IV] / ATK UP [IV]"
   },
   "128700": {
-    "name": "レジストブレイク[III]",
+    "name": "Resist Break [III]",
     "shortDescription": "Status Ailment Resistance DOWN [III] (Target/3 Turns)"
   },
   "128701": {
-    "name": "レジストブレイク[IV]",
+    "name": "Resist Break [IV]",
     "shortDescription": "Status Ailment Resistance DOWN [IV] (Target/3 Turns)"
   },
   "128800": {
-    "name": "チル・アンド・ウォーム[VII]",
+    "name": "Chill and Warm [VII]",
     "shortDescription": "Blast Damage UP [VII] (Self/1 Turn) / Status Ailment Resistance DOWN [IV] (All Foes/1 Turn)"
   },
   "128801": {
-    "name": "チル・アンド・ウォーム[VIII]",
+    "name": "Chill and Warm [VIII]",
     "shortDescription": "Blast Damage UP [VIII] (Self/1 Turn) / Status Ailment Resistance DOWN [V] (All Foes/1 Turn)"
   },
   "128900": {
@@ -2368,52 +2368,52 @@
     "shortDescription": "ATK UP [IV] / DEF UP [III] (Self/3 Turns)"
   },
   "129500": {
-    "name": "無病息災[X]",
-    "shortDescription": "Poison Chance 無効[X] / Negate Burn Chance [IV] / Negate Curse Chance [IV]"
+    "name": "Perfect Health [X]",
+    "shortDescription": "Negate Poison Chance [X] / Negate Burn Chance [IV] / Negate Curse Chance [IV]"
   },
   "129501": {
-    "name": "無病息災",
-    "shortDescription": "Guaranteed Poison無効 / Negate Burn Chance [IX] / Negate Curse Chance [IX]"
+    "name": "Perfect Health",
+    "shortDescription": "Negate Poison / Negate Burn Chance [IX] / Negate Curse Chance [IX]"
   },
   "129700": {
-    "name": "アタックアップ[Ⅰ]",
-    "shortDescription": "ATK UP [Ⅰ](自/1T)"
+    "name": "Attack UP [Ⅰ]",
+    "shortDescription": "ATK UP [Ⅰ] (Self/1 Turn)"
   },
   "129701": {
-    "name": "アタックアップ[Ⅰ]",
-    "shortDescription": "ATK UP [Ⅰ](自/1T)"
+    "name": "Attack UP [Ⅰ]",
+    "shortDescription": "ATK UP [Ⅰ] (Self/1 Turn)"
   },
   "129800": {
-    "name": "ガードアップ[Ⅰ]",
-    "shortDescription": "DEF UP [Ⅰ](自/1T)"
+    "name": "Guard UP [Ⅰ]",
+    "shortDescription": "DEF UP [Ⅰ] (Self/1 Turn)"
   },
   "129801": {
-    "name": "ガードアップ[Ⅰ]",
-    "shortDescription": "DEF UP [Ⅰ](自/1T)"
+    "name": "Guard UP [Ⅰ]",
+    "shortDescription": "DEF UP [Ⅰ] (Self/1 Turn)"
   },
   "129900": {
-    "name": "タイムスキップ[VII]",
+    "name": "Time Skip [VII]",
     "shortDescription": "Evade / Follow Up Attack Chance [VII] (Self/1 Turn)"
   },
   "129901": {
-    "name": "タイムスキップ[X]",
+    "name": "Time Skip [X]",
     "shortDescription": "Evade / Follow Up Attack Chance [X] (Self/1 Turn)"
   },
   "130000": {
-    "name": "コンシールブラスト[VIII]",
+    "name": "Conceal Blast [VIII]",
     "shortDescription": "Negate Evade Chance [VIII] / Blast Damage UP [III] (Self/3 Turns)"
   },
   "130001": {
-    "name": "コンシールブラスト[X]",
+    "name": "Conceal Blast [X]",
     "shortDescription": "Negate Evade Chance [X] / Blast Damage UP [IV] (Self/3 Turns)"
   },
   "130100": {
-    "name": "コンフィダント・アデプト[II]",
-    "shortDescription": "DEF UP [II] / MP Gain UP [I] / Get More MP when Hit by Weak Element [I]"
+    "name": "Confidant Adept [II]",
+    "shortDescription": "DEF UP [II] / MP Gain DOWN UP [I] / Get More MP when Hit by Weak Element [I]"
   },
   "130101": {
-    "name": "コンフィダント・アデプト[III]",
-    "shortDescription": "DEF UP [III] / MP Gain UP [II] / Get More MP when Hit by Weak Element [I]"
+    "name": "Confidant Adept [III]",
+    "shortDescription": "DEF UP [III] / MP Gain DOWN UP [II] / Get More MP when Hit by Weak Element [I]"
   },
   "130200": {
     "name": "Parry Adept [I]",
@@ -2424,19 +2424,19 @@
     "shortDescription": "Evade Chance [III]"
   },
   "130300": {
-    "name": "キーンインサイト[III]",
+    "name": "Keen Insight [III]",
     "shortDescription": "Critical Hit Chance [III] / Negate Bewitch Chance [X]"
   },
   "130301": {
-    "name": "キーンインサイト[IV]",
+    "name": "Keen Insight [IV]",
     "shortDescription": "Critical Hit Chance [IV] / Negate Bewitch"
   },
   "130400": {
-    "name": "マナスプリング[I]",
+    "name": "Mana Spring [I]",
     "shortDescription": "MP Regen [I] (Self/3 Turns)"
   },
   "130401": {
-    "name": "マナスプリング[I]",
+    "name": "Mana Spring [I]",
     "shortDescription": "MP Regen [I] (Self/3 Turns)"
   },
   "130500": {
@@ -2456,131 +2456,131 @@
     "shortDescription": "Accele MP UP [VI] (Self/3 Turns)"
   },
   "130700": {
-    "name": "アンチ・バーン[V]",
+    "name": "Anti-Burn [V]",
     "shortDescription": "Negate Burn Chance [V] / DEF UP [I]"
   },
   "130701": {
-    "name": "アンチ・バーン",
+    "name": "Anti-Burn",
     "shortDescription": "Negate Burn / DEF UP [II]"
   },
   "130800": {
-    "name": "フルスロットルアップ[IV]",
+    "name": "Full Throttle Up [IV]",
     "shortDescription": "Damage After Using Charge UP [IV] / Accele MP UP [II]  (Self/1 Turn)"
   },
   "130801": {
-    "name": "フルスロットルアップ[V]",
+    "name": "Full Throttle Up [V]",
     "shortDescription": "Damage After Using Charge UP [V] / Accele MP UP [III]  (Self/1 Turn)"
   },
   "130900": {
-    "name": "スマイトライズ[IV]",
+    "name": "Smite Rise [IV]",
     "shortDescription": "ATK UP [IV] / Damage After Using Charge UP [IV]  (Self/3 Turns)"
   },
   "130901": {
-    "name": "スマイトライズ[V]",
+    "name": "Smite Rise [V]",
     "shortDescription": "ATK UP [V] / Damage After Using Charge UP [V]  (Self/3 Turns)"
   },
   "131000": {
-    "name": "Inevitable ・アデプト[II]",
+    "name": "Inevitable Adept [II]",
     "shortDescription": "Critical Hit Chance [II] / Negate Evade Chance [VIII]"
   },
   "131001": {
-    "name": "Inevitable ・アデプト[III]",
+    "name": "Inevitable Adept [III]",
     "shortDescription": "Critical Hit Chance [III] / Negate Evade Chance [ⅩⅢ]"
   },
   "131100": {
-    "name": "エリミネイトアップ[IV]",
+    "name": "Eliminate Up [IV]",
     "shortDescription": "Blast Damage UP [IV] / Magia Damage UP [II] (Self/1 Turn)"
   },
   "131101": {
-    "name": "エリミネイトアップ[VI]",
+    "name": "Eliminate Up [VI]",
     "shortDescription": "Blast Damage UP [VI] / Magia Damage UP [IV] (Self/1 Turn)"
   },
   "131200": {
-    "name": "ドレインタッチ[IV]",
+    "name": "Drain Touch [IV]",
     "shortDescription": "ATK DOWN [IV] / DEF DOWN [IV] (Target/1 Turn) / HP Regen [III] (Self/3 Turns)"
   },
   "131201": {
-    "name": "ドレインタッチ[V]",
+    "name": "Drain Touch [V]",
     "shortDescription": "ATK DOWN [V] / DEF DOWN [V] (Target/1 Turn) / HP Regen [IV] (Self/3 Turns)"
   },
   "131300": {
-    "name": "ヴァンパイア・ネイル[II]",
-    "shortDescription": "攻撃時に確率で呪い (1 Turn) Chance upon Attack [II] / Damage UP [II] / HP Regen [II]"
+    "name": "Vampire Nails [II]",
+    "shortDescription": "Curse (1 Turn) Chance upon Attack [II] / Damage UP [II] / HP Regen [II]"
   },
   "131301": {
-    "name": "ヴァンパイア・ネイル[III]",
-    "shortDescription": "攻撃時に確率で呪い (1 Turn) Chance upon Attack [III] / Damage UP [III] / HP Regen [III]"
+    "name": "Vampire Nails [III]",
+    "shortDescription": "Curse (1 Turn) Chance upon Attack [III] / Damage UP [III] / HP Regen [III]"
   },
   "131400": {
-    "name": "無言の加護[III]",
-    "shortDescription": "戦闘不能時にATK UP [III] / DEF UP [III](味全/2T)を発動"
+    "name": "Silent Protection [III]",
+    "shortDescription": "Activate ATK UP [III] / DEF UP [III] (Team/2 Turns) Upon Defeat"
   },
   "131401": {
-    "name": "無言の加護[IV]",
-    "shortDescription": "戦闘不能時にATK UP [IV] / DEF UP [IV](味全/2T)を発動"
+    "name": "Silent Protection [IV]",
+    "shortDescription": "Activate ATK UP [IV] / DEF UP [IV] (Team/2 Turns) Upon Defeat"
   },
   "131500": {
-    "name": "マナアブソーブ[I]",
-    "shortDescription": "MPダメージ[I](敵単) / Charges MP [I] (Self)"
+    "name": "Magic Absorb [I]",
+    "shortDescription": "MP Damage [I] (Target) / Charges MP [I] (Self)"
   },
   "131501": {
-    "name": "マナアブソーブ[I]",
-    "shortDescription": "MPダメージ[I](敵単) / Charges MP [I] (Self)"
+    "name": "Magic Absorb [I]",
+    "shortDescription": "MP Damage [I] (Target) / Charges MP [I] (Self)"
   },
   "131600": {
-    "name": "ブルーム・アデプト[II]",
+    "name": "Bloom Adept [II]",
     "shortDescription": "ATK UP [II] / DEF UP [II]"
   },
   "131601": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "131700": {
-    "name": "クウェル・モラール[VIII]",
-    "shortDescription": "MP獲得量 DOWN[VIII] (All Foes/1 Turn)"
+    "name": "Quell Morale [VIII]",
+    "shortDescription": "MP Gain DOWN DOWN [VIII] (All Foes/1 Turn)"
   },
   "131701": {
-    "name": "クウェル・モラール[IX]",
-    "shortDescription": "MP獲得量 DOWN[IX] (All Foes/1 Turn)"
+    "name": "Quell Morale [IX]",
+    "shortDescription": "MP Gain DOWN DOWN [IX] (All Foes/1 Turn)"
   },
   "131800": {
-    "name": "ジャマ―チャフ[III]",
-    "shortDescription": "確率でスキル不可[III] (All Foes/1 Turn)"
+    "name": "Jamming Chaff [III]",
+    "shortDescription": "Skill Seal Chance [III] (All Foes/1 Turn)"
   },
   "131801": {
-    "name": "ジャマ―チャフ[IV]",
-    "shortDescription": "確率でスキル不可[IV] (All Foes/1 Turn)"
+    "name": "Jamming Chaff [IV]",
+    "shortDescription": "Skill Seal Chance [IV] (All Foes/1 Turn)"
   },
   "131900": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "131901": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "132000": {
-    "name": "Uplift ・アデプト[III]",
+    "name": "Uplift Adept [III]",
     "shortDescription": "ATK UP [III] / Status Ailment Resistance UP [II]"
   },
   "132001": {
-    "name": "Uplift ・アデプト[IV]",
+    "name": "Uplift Adept [IV]",
     "shortDescription": "ATK UP [IV] / Status Ailment Resistance UP [III]"
   },
   "132100": {
-    "name": "Magia UP ・サークル[III]",
-    "shortDescription": "Magia Damage UP [III](味全/1T)"
+    "name": "Magia UP Circle [III]",
+    "shortDescription": "Magia Damage UP [III] (Team/1 Turn)"
   },
   "132101": {
-    "name": "Magia UP ・サークル[IV]",
-    "shortDescription": "Magia Damage UP [IV](味全/1T)"
+    "name": "Magia UP Circle [IV]",
+    "shortDescription": "Magia Damage UP [IV] (Team/1 Turn)"
   },
   "132200": {
-    "name": "アトリションPoison [IV]",
+    "name": "Attrition Poison [IV]",
     "shortDescription": "Guaranteed Poison (Target/1 Turn) / DEF DOWN [IV] (Target/1 Turn)"
   },
   "132201": {
-    "name": "アトリションPoison [V]",
+    "name": "Attrition Poison [V]",
     "shortDescription": "Guaranteed Poison (Target/1 Turn) / DEF DOWN [V] (Target/1 Turn)"
   },
   "132300": {
@@ -2592,11 +2592,11 @@
     "shortDescription": "Increases Episode Points Earned [II]"
   },
   "132400": {
-    "name": "ブルームダウン[IV]",
+    "name": "Bloom Down [IV]",
     "shortDescription": "ATK DOWN [IV] / DEF DOWN [IV] (Target/1 Turn)"
   },
   "132401": {
-    "name": "ブルームダウン[V]",
+    "name": "Bloom Down [V]",
     "shortDescription": "ATK DOWN [V] / DEF DOWN [V] (Target/1 Turn)"
   },
   "132500": {
@@ -2608,179 +2608,179 @@
     "shortDescription": "Guaranteed Critical Hit (Self/1 Turn)"
   },
   "132600": {
-    "name": "エスペランサ―・ストライク[V]",
+    "name": "Esperansa Strike [V]",
     "shortDescription": "Critical Hit Chance [V] / ATK UP [VII] (Self/1 Turn)"
   },
   "132601": {
-    "name": "エスペランサ―・ストライク[VI]",
+    "name": "Esperansa Strike [VI]",
     "shortDescription": "Critical Hit Chance [VI] / ATK UP [VIII] (Self/1 Turn)"
   },
   "132700": {
-    "name": "グラムサイト[II]",
+    "name": "Glamour Sight [II]",
     "shortDescription": "Negate Blind / Accele MP UP [II]"
   },
   "132701": {
-    "name": "グラムサイト[III]",
+    "name": "Glamour Sight [III]",
     "shortDescription": "Negate Blind / Accele MP UP [III]"
   },
   "132800": {
-    "name": "Covering・スピリット[II] ",
+    "name": "Covering Spirit [II] ",
     "shortDescription": "Guard Chance [II] / HP Regen [I]"
   },
   "132801": {
-    "name": "Covering・スピリット[III]",
+    "name": "Covering Spirit [III]",
     "shortDescription": "Guard Chance [III] / HP Regen [II]"
   },
   "132900": {
     "name": "Morale Master [II]",
-    "shortDescription": "MP Gain UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "132901": {
     "name": "Morale Master [III]",
-    "shortDescription": "MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "133000": {
-    "name": "ショーテル・アデプト[V] ",
-    "shortDescription": "確率でダメージカット無視[V] / Damage After Using Charge UP [IV]"
+    "name": "Shotel Adept [V] ",
+    "shortDescription": "Chance to Ignore Reduce Damage [V] / Damage After Using Charge UP [IV]"
   },
   "133001": {
-    "name": "ショーテル・アデプト[VII]",
-    "shortDescription": "確率でダメージカット無視[VII] / Damage After Using Charge UP [V]"
+    "name": "Shotel Adept [VII]",
+    "shortDescription": "Chance to Ignore Reduce Damage [VII] / Damage After Using Charge UP [V]"
   },
   "133100": {
-    "name": "アクセル・フォース[IV]",
+    "name": "Accele Force [IV]",
     "shortDescription": "Accele MP UP [IV] / Critical Hit Chance [IV] (Self/3 Turns)"
   },
   "133101": {
-    "name": "アクセル・フォース[V]",
+    "name": "Accele Force [V]",
     "shortDescription": "Accele MP UP [V] / Critical Hit Chance [V] (Self/3 Turns)"
   },
   "133200": {
-    "name": "バインディングマギア[III]",
-    "shortDescription": "確率で拘束[III] (All Foes/1 Turn) / Magia Damage UP [VI] (Self/1 Turn)"
+    "name": "Binding Magia [III]",
+    "shortDescription": "Bind Chance [III] (All Foes/1 Turn) / Magia Damage UP [VI] (Self/1 Turn)"
   },
   "133201": {
-    "name": "バインディングマギア[IV]",
-    "shortDescription": "確率で拘束[IV] (All Foes/1 Turn) / Magia Damage UP [VII] (Self/1 Turn)"
+    "name": "Binding Magia [IV]",
+    "shortDescription": "Bind Chance [IV] (All Foes/1 Turn) / Magia Damage UP [VII] (Self/1 Turn)"
   },
   "133300": {
-    "name": "チェスト・アデプト[V]",
+    "name": "Chest Adept [V]",
     "shortDescription": "ATK UP when at Max HP [V] / Negate Counter Chance [V] / DEF DOWN [V]"
   },
   "133301": {
-    "name": "チェスト・アデプト[VI]",
+    "name": "Chest Adept [VI]",
     "shortDescription": "ATK UP when at Max HP [VI] / Negate Counter / DEF DOWN [V]"
   },
   "133400": {
-    "name": "ファサネイト[I]",
+    "name": "Fascinate [I]",
     "shortDescription": "Charm [I] / Bewitch Chance [I] (All Foes/1 Turn)"
   },
   "133401": {
-    "name": "ファサネイト[I]",
+    "name": "Fascinate [I]",
     "shortDescription": "Charm [I] / Bewitch Chance [I] (All Foes/1 Turn)"
   },
   "133500": {
-    "name": "リアリスト[IX] ",
+    "name": "Realist [IX] ",
     "shortDescription": "Negate Bewitch Chance [IX]"
   },
   "133501": {
-    "name": "リアリスト",
+    "name": "Realist",
     "shortDescription": "Negate Bewitch / Curse Chip (CC) Gain UP [I] (Affects CC dropped in Quests, no effect when equipped as Support)"
   },
   "133600": {
-    "name": "マナガイザー[III]",
+    "name": "Magia Geyser [III]",
     "shortDescription": "HP Regen [III] / Magia Damage UP [III] (Self/3 Turns)"
   },
   "133601": {
-    "name": "マナガイザー[III]",
+    "name": "Magia Geyser [III]",
     "shortDescription": "HP Regen [III] / Magia Damage UP [III] (Self/3 Turns)"
   },
   "133700": {
-    "name": "オーバーカム・アデプト[III]",
+    "name": "Overcome Adept [III]",
     "shortDescription": "ATK UP [III] / Get More MP when Hit by Weak Element [II]"
   },
   "133701": {
-    "name": "オーバーカム・アデプト[III]",
+    "name": "Overcome Adept [III]",
     "shortDescription": "ATK UP [III] / Get More MP when Hit by Weak Element [II]"
   },
   "133800": {
-    "name": "トライアンファント[VIII]",
-    "shortDescription": "MP獲得量 DOWN[VIII] (All Foes/3 Turns) / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Triumphant [VIII]",
+    "shortDescription": "MP Gain DOWN DOWN [VIII] (All Foes/3 Turns) / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "133801": {
-    "name": "トライアンファント[IX]",
-    "shortDescription": "MP獲得量 DOWN[IX] (All Foes/3 Turns) / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Triumphant [IX]",
+    "shortDescription": "MP Gain DOWN DOWN [IX] (All Foes/3 Turns) / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "133900": {
-    "name": "グラムイミュニティ[III]",
+    "name": "Glam Immunity [III]",
     "shortDescription": "Accele MP UP [III] / Status Ailment Resistance UP [II]"
   },
   "133901": {
-    "name": "グラムイミュニティ[IV]",
+    "name": "Glam Immunity [IV]",
     "shortDescription": "Accele MP UP [IV] / Status Ailment Resistance UP [III]"
   },
   "134000": {
-    "name": "オールディスクアップ[IV]",
-    "shortDescription": "BlastダメージUP[IV] / Damage After Using Charge UP [IV] / Accele MP UP [III] (Self/1 Turn)"
+    "name": "All Disks UP [IV]",
+    "shortDescription": "Blast Damage UP [IV] / Damage After Using Charge UP [IV] / Accele MP UP [III] (Self/1 Turn)"
   },
   "134001": {
-    "name": "オールディスクアップ[V]",
-    "shortDescription": "BlastダメージUP[V] / Damage After Using Charge UP [V] / Accele MP UP [IV] (Self/1 Turn)"
+    "name": "All Disks UP [V]",
+    "shortDescription": "Blast Damage UP [V] / Damage After Using Charge UP [V] / Accele MP UP [IV] (Self/1 Turn)"
   },
   "134100": {
-    "name": "グリッターライズ[III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [I] (Self/3 Turns)"
+    "name": "Glitterize [III]",
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [I] (Self/3 Turns)"
   },
   "134101": {
-    "name": "グリッターライズ[V]",
-    "shortDescription": "ATK UP [V] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Glitterize [V]",
+    "shortDescription": "ATK UP [V] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "134200": {
-    "name": "アンチ・Charm[VI]",
+    "name": "Anti-Charm [VI]",
     "shortDescription": "Negate Charm [VI]"
   },
   "134201": {
-    "name": "アンチ・Charm",
+    "name": "Anti-Charm",
     "shortDescription": "Negate Charm"
   },
   "134300": {
-    "name": "ディスミス・カウンター[IX]",
+    "name": "Dismiss Counter [IX]",
     "shortDescription": "Negate Counter Chance [IX] / ATK UP [VI] (Self/3 Turns)"
   },
   "134301": {
-    "name": "ディスミス・カウンター[XII]",
+    "name": "Dismiss Counter [XII]",
     "shortDescription": "Negate Counter Chance [XII] / ATK UP [VII] (Self/3 Turns)"
   },
   "134400": {
-    "name": "バインド・ハルシネ―ション[IV]",
-    "shortDescription": "確率で拘束[IV] / DEF DOWN [V] (Target/1 Turn)"
+    "name": "Bind Hallucination [IV]",
+    "shortDescription": "Bind Chance [IV] / DEF DOWN [V] (Target/1 Turn)"
   },
   "134401": {
-    "name": "バインド・ハルシネ―ション[V]",
-    "shortDescription": "確率で拘束[V] / DEF DOWN [VI] (Target/1 Turn)"
+    "name": "Bind Hallucination [V]",
+    "shortDescription": "Bind Chance [V] / DEF DOWN [VI] (Target/1 Turn)"
   },
   "134500": {
-    "name": "インビジブル・バーンエッジ[V]",
+    "name": "Invisible Burn Edge [V]",
     "shortDescription": "Burn (2 Turns) Chance upon Attack [V] / Negate Evade Chance [X]"
   },
   "134501": {
-    "name": "インビジブル・バーンエッジ[VI]",
+    "name": "Invisible Burn Edge [VI]",
     "shortDescription": "Burn (2 Turns) Chance upon Attack [VI] / Negate Evade"
   },
   "134600": {
-    "name": "サプレス・モラール[III]",
-    "shortDescription": "MP獲得量 DOWN[III] (All Foes/3 Turns)"
+    "name": "Suppress Morale [III]",
+    "shortDescription": "MP Gain DOWN DOWN [III] (All Foes/3 Turns)"
   },
   "134601": {
-    "name": "サプレス・モラール[IV]",
-    "shortDescription": "MP獲得量 DOWN[IV] (All Foes/3 Turns)"
+    "name": "Suppress Morale [IV]",
+    "shortDescription": "MP Gain DOWN DOWN [IV] (All Foes/3 Turns)"
   },
   "134700": {
-    "name": "アンチ・メズマライズ[IX]",
+    "name": "Anti-Mesmerize [IX]",
     "shortDescription": "Negate Bewitch Chance [IX]"
   },
   "134701": {
-    "name": "アンチ・メズマライズ",
+    "name": "Anti-Mesmerize",
     "shortDescription": "Negate Bewitch"
   },
   "134800": {
@@ -2792,11 +2792,11 @@
     "shortDescription": "Reduce Damage [VI] (Self/3 Turns)"
   },
   "134900": {
-    "name": "エンハンス・ウェポン[V]",
+    "name": "Enhance Weapon [V]",
     "shortDescription": "Damage UP [V] (Self/3 Turns)"
   },
   "134901": {
-    "name": "エンハンス・ウェポン[VI]",
+    "name": "Enhance Weapon [VI]",
     "shortDescription": "Damage UP [VI] (Self/3 Turns)"
   },
   "135000": {
@@ -2808,19 +2808,19 @@
     "shortDescription": "HP Regen [III] / Status Ailment Resistance UP [IV]"
   },
   "135100": {
-    "name": "マギアシールド[IV]",
-    "shortDescription": "マギアReduce Damage [IV] (Self/1 Turn)"
+    "name": "Magia Shield [IV]",
+    "shortDescription": "Reduce Magia Damage [IV] (Self/1 Turn)"
   },
   "135101": {
-    "name": "マギアシールド[VI]",
-    "shortDescription": "マギアReduce Damage [VI] (Self/1 Turn)"
+    "name": "Magia Shield [VI]",
+    "shortDescription": "Reduce Magia Damage [VI] (Self/1 Turn)"
   },
   "135200": {
-    "name": "チアリング[III]",
+    "name": "Cheering [III]",
     "shortDescription": "HP Regen [III] (Self/3 Turns) / Remove Debuffs (Self)"
   },
   "135201": {
-    "name": "チアリング[IV]",
+    "name": "Cheering [IV]",
     "shortDescription": "HP Regen [IV] (Self/3 Turns) / Remove Debuffs (Self)"
   },
   "135300": {
@@ -2832,28 +2832,28 @@
     "shortDescription": "ATK UP [IV] / Negate Fog"
   },
   "135400": {
-    "name": "クリアハート[V]",
+    "name": "Clear Heart [V]",
     "shortDescription": "Accele MP UP [V] / Damage UP [III] (Self/1 Turn)"
   },
   "135401": {
-    "name": "クリアハート[VI]",
+    "name": "Clear Heart [VI]",
     "shortDescription": "Accele MP UP [VI] / Damage UP [IV] (Self/1 Turn)"
   },
   "135500": {
-    "name": "オン・ステージ[IV]",
-    "shortDescription": "Negate Blind / 確率でスキル不可無効[IV] / ATK UP [II]"
+    "name": "Onstage [IV]",
+    "shortDescription": "Negate Blind / Negate Skill Seal Chance [IV] / ATK UP [II]"
   },
   "135501": {
-    "name": "オン・ステージ[IX]",
-    "shortDescription": "Negate Blind / 確率でスキル不可無効[IX] / ATK UP [II]"
+    "name": "Onstage [IX]",
+    "shortDescription": "Negate Blind / Negate Skill Seal Chance [IX] / ATK UP [II]"
   },
   "135600": {
-    "name": "スタンバイ・レディ[VII] ",
-    "shortDescription": "Reduce Damage [VII] / 確率でダメージカット無視[VI] (Self/1 Turn)"
+    "name": "Standby, Ready [VII] ",
+    "shortDescription": "Reduce Damage [VII] / Chance to Ignore Reduce Damage [VI] (Self/1 Turn)"
   },
   "135601": {
-    "name": "スタンバイ・レディ[VIII] ",
-    "shortDescription": "Reduce Damage [VIII] / 確率でダメージカット無視[VII] (Self/1 Turn)"
+    "name": "Standby, Ready [VIII] ",
+    "shortDescription": "Reduce Damage [VIII] / Chance to Ignore Reduce Damage [VII] (Self/1 Turn)"
   },
   "135700": {
     "name": "Two Magical Lights",
@@ -2864,75 +2864,75 @@
     "shortDescription": "Evade (Self/1 Turn)"
   },
   "135800": {
-    "name": "たったひとつの宝物[IV] ",
+    "name": "A Lone Treasure [IV]",
     "shortDescription": "Magia Damage UP [IV] / Reduce Damage [II]"
   },
   "135801": {
-    "name": "たったひとつの宝物[V] ",
+    "name": "A Lone Treasure [V]",
     "shortDescription": "Magia Damage UP [V] / Reduce Damage [III]"
   },
   "135900": {
-    "name": "集え、星の輝き…[V] ",
+    "name": "Gather, Shimmer of Stars... [V]",
     "shortDescription": "Magia Damage UP [V] / Accele MP UP [IV] (Self/3 Turns)"
   },
   "135901": {
-    "name": "集え、星の輝き…[VI] ",
+    "name": "Gather, Shimmer of Stars... [VI]",
     "shortDescription": "Magia Damage UP [VI] / Accele MP UP [V] (Self/3 Turns)"
   },
   "136000": {
-    "name": "わたしたちの魔法[II] ",
+    "name": "Our Magic [II]",
     "shortDescription": "Blast Damage UP [II] / DEF UP [II]"
   },
   "136001": {
-    "name": "わたしたちの魔法[III] ",
+    "name": "Our Magic [III]",
     "shortDescription": "Blast Damage UP [III] / DEF UP [III]"
   },
   "136100": {
-    "name": "響け終焉の笛[IV] ",
+    "name": "Resound, Horn of the End [IV]",
     "shortDescription": "DEF DOWN [IV] (All Foes/1 Turn) / Magia Damage UP [VI] (Self/1 Turn)"
   },
   "136101": {
-    "name": "響け終焉の笛[V] ",
+    "name": "Resound, Horn of the End [V]",
     "shortDescription": "DEF DOWN [V] (All Foes/1 Turn) / Magia Damage UP [VII] (Self/1 Turn)"
   },
   "136200": {
-    "name": "A Light in the Darkness [II] ",
+    "name": "A Light in the Darkness [II]",
     "shortDescription": "Bind (1 Turn) Chance upon Attack [II] / ATK UP [I]"
   },
   "136201": {
-    "name": "A Light in the Darkness [III] ",
+    "name": "A Light in the Darkness [III]",
     "shortDescription": "Bind (1 Turn) Chance upon Attack [III] / ATK UP [II]"
   },
   "136300": {
-    "name": "夜天の書の主[II] ",
+    "name": "Mistress of the Night Sky [II]",
     "shortDescription": "Blast Damage UP [II] / Magia Damage UP [III]  (Self/3 Turns)"
   },
   "136301": {
-    "name": "夜天の書の主[III] ",
+    "name": "Mistress of the Night Sky [III]",
     "shortDescription": "Blast Damage UP [III] / Magia Damage UP [IV]  (Self/3 Turns)"
   },
   "136400": {
-    "name": "雷光迅る[VI]",
+    "name": "Lightning Strike [VI]",
     "shortDescription": "Critical Hit Chance [VI] / Evade Chance [VIII] (Self/1 Turn)"
   },
   "136401": {
-    "name": "雷光迅る[VII]",
+    "name": "Lightning Strike [VII]",
     "shortDescription": "Critical Hit Chance [VII] / Evade Chance [IX] (Self/1 Turn)"
   },
   "136500": {
-    "name": "祝福の風ふたたび[II] ",
+    "name": "Blessed Wind Returns [II]",
     "shortDescription": "Reduce Damage [II] / DEF UP [II]"
   },
   "136501": {
-    "name": "祝福の風ふたたび[III] ",
+    "name": "Blessed Wind Returns [III]",
     "shortDescription": "Reduce Damage [III] / DEF UP [III]"
   },
   "136600": {
-    "name": "アンチ・ナイトメア[VIII]",
-    "shortDescription": "Negate Bewitch / Blind Chance 無効[VIII]"
+    "name": "Anti-Nightmare [VIII]",
+    "shortDescription": "Negate Bewitch / Negate Blind Chance [VIII]"
   },
   "136601": {
-    "name": "アンチ・ナイトメア",
+    "name": "Anti-Nightmare",
     "shortDescription": "Negate Bewitch / Negate Blind"
   },
   "136700": {
@@ -2944,67 +2944,67 @@
     "shortDescription": "ATK UP [V]"
   },
   "136800": {
-    "name": "ブラスト・ストライク[V]",
+    "name": "Blast Strike [V]",
     "shortDescription": "Blast Damage UP [V] / Critical Hit Chance [IV] (Self/1 Turn)"
   },
   "136801": {
-    "name": "ブラスト・ストライク[VI]",
+    "name": "Blast Strike [VI]",
     "shortDescription": "Blast Damage UP [VI] / Critical Hit Chance [V] (Self/1 Turn)"
   },
   "136900": {
-    "name": "ディリジェンス・アデプト[II]",
-    "shortDescription": "DEF UP [II] / MP Gain UP [II]"
+    "name": "Diligence Adept [II]",
+    "shortDescription": "DEF UP [II] / MP Gain DOWN UP [II]"
   },
   "136901": {
-    "name": "ディリジェンス・アデプト[III]",
-    "shortDescription": "DEF UP [III] / MP Gain UP [III]"
+    "name": "Diligence Adept [III]",
+    "shortDescription": "DEF UP [III] / MP Gain DOWN UP [III]"
   },
   "137000": {
-    "name": "シスターフッド[II]",
-    "shortDescription": "ATK UP [II] / Stun Chance 無効[VI]"
+    "name": "Sisterhood [II]",
+    "shortDescription": "ATK UP [II] / Negate Stun Chance [VI]"
   },
   "137001": {
-    "name": "シスターフッド[III]",
+    "name": "Sisterhood [III]",
     "shortDescription": "ATK UP [III] / Negate Stun"
   },
   "137100": {
-    "name": "チャージライズ[III]",
+    "name": "Charge Master [III]",
     "shortDescription": "Damage After Using Charge UP [III] (Self/3 Turns)"
   },
   "137101": {
-    "name": "チャージライズ[V]",
+    "name": "Charge Master [V]",
     "shortDescription": "Damage After Using Charge UP [V] (Self/3 Turns)"
   },
   "137200": {
-    "name": "オース[IV]",
+    "name": "Oath [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [V] / Taunt [VII] (Self/1 Turn)"
   },
   "137201": {
-    "name": "オース[V]",
+    "name": "Oath [V]",
     "shortDescription": "ATK UP [V] / DEF UP [VI] / Taunt [VIII] (Self/1 Turn)"
   },
   "137300": {
-    "name": "ブリーイング[VII]",
-    "shortDescription": "MP獲得量 DOWN[VII] (All Foes/1 Turn) / HP Regen [III] (Self/3 Turns)"
+    "name": "Bullying [VII]",
+    "shortDescription": "MP Gain DOWN DOWN [VII] (All Foes/1 Turn) / HP Regen [III] (Self/3 Turns)"
   },
   "137301": {
-    "name": "ブリーイング[VIII]",
-    "shortDescription": "MP獲得量 DOWN[VIII] (All Foes/1 Turn) / HP Regen [IV] (Self/3 Turns)"
+    "name": "Bullying [VIII]",
+    "shortDescription": "MP Gain DOWN DOWN [VIII] (All Foes/1 Turn) / HP Regen [IV] (Self/3 Turns)"
   },
   "137400": {
-    "name": "ドラゴンロア―[XV]",
+    "name": "Dragon's Roar [XV]",
     "shortDescription": "Burn [XV] / DEF DOWN [VIII] (Target/1 Turn)"
   },
   "137401": {
-    "name": "ドラゴンロア―",
-    "shortDescription": "必ずやけど / DEF DOWN [IX] (Target/1 Turn)"
+    "name": "Dragon's Roar",
+    "shortDescription": "Guaranteed Burn / DEF DOWN [IX] (Target/1 Turn)"
   },
   "137500": {
-    "name": "Battle Sense・アデプト[IV]",
+    "name": "Battle Sense Adept [IV]",
     "shortDescription": "Negate Evade Chance [IV] / Negate Counter Chance [IV]"
   },
   "137501": {
-    "name": "Battle Sense・アデプト[VI]",
+    "name": "Battle Sense Adept [VI]",
     "shortDescription": "Negate Evade Chance [VI] / Negate Counter Chance [VI]"
   },
   "137600": {
@@ -3016,43 +3016,43 @@
     "shortDescription": "Status Ailment Resistance UP [IV]"
   },
   "137700": {
-    "name": "インドミタブル[X] ",
+    "name": "Indomitable [X]",
     "shortDescription": "Endure / HP Regen [X] (Self/1 Turn)"
   },
   "137701": {
-    "name": "インドミタブル[XV] ",
+    "name": "Indomitable [XV]",
     "shortDescription": "Endure / HP Regen [XV] (Self/1 Turn)"
   },
   "137800": {
-    "name": "アンチ・ヒート[III]",
+    "name": "Anti-Heat [III]",
     "shortDescription": "Negate Burn / HP Regen [III]"
   },
   "137801": {
-    "name": "アンチ・ヒート[III]",
+    "name": "Anti-Heat [III]",
     "shortDescription": "Negate Burn / HP Regen [III]"
   },
   "137900": {
-    "name": "トニックライズ[IV]",
+    "name": "Tonic Master [IV]",
     "shortDescription": "Status Ailment Resistance UP [IV] / MP Regen [I] (Self/3 Turns)"
   },
   "137901": {
-    "name": "トニックライズ[IV]",
+    "name": "Tonic Master [IV]",
     "shortDescription": "Status Ailment Resistance UP [IV] / MP Regen [I] (Self/3 Turns)"
   },
   "138000": {
-    "name": "ビッグ・キャッチ[II]",
-    "shortDescription": "Blast Damage UP [II] / MP Gain UP [IV] (Self/3 Turns)"
+    "name": "Big Catch [II]",
+    "shortDescription": "Blast Damage UP [II] / MP Gain DOWN UP [IV] (Self/3 Turns)"
   },
   "138001": {
-    "name": "ビッグ・キャッチ[III]",
-    "shortDescription": "Blast Damage UP [III] / MP Gain UP [V] (Self/3 Turns)"
+    "name": "Big Catch [III]",
+    "shortDescription": "Blast Damage UP [III] / MP Gain DOWN UP [V] (Self/3 Turns)"
   },
   "138100": {
-    "name": "アドベンチャースピリット[II]",
+    "name": "Adventurous Spirit [II]",
     "shortDescription": "Blast Damage UP [II] / Accele MP UP [II] / Negate Charm"
   },
   "138101": {
-    "name": "アドベンチャースピリット[IV]",
+    "name": "Adventurous Spirit [IV]",
     "shortDescription": "Blast Damage UP [IV] / Accele MP UP [III] / Negate Charm"
   },
   "138200": {
@@ -3064,11 +3064,11 @@
     "shortDescription": "Heal [I]"
   },
   "138300": {
-    "name": "サンセット・グロウ[IX]",
+    "name": "Sunset Glow [IX]",
     "shortDescription": "Negate Bewitch Chance [IX] / Blast Damage UP [II]"
   },
   "138301": {
-    "name": "サンセット・グロウ",
+    "name": "Sunset Glow",
     "shortDescription": "Negate Bewitch / Blast Damage UP [III]"
   },
   "138400": {
@@ -3080,67 +3080,67 @@
     "shortDescription": "ATK UP [IV] (Self/3 Turns)"
   },
   "138500": {
-    "name": "ディテクティブ[VII]",
+    "name": "Detective [VII]",
     "shortDescription": "DEF DOWN [VII] (Target/1 Turn) / Remove Status Ailments (Self)"
   },
   "138501": {
-    "name": "ディテクティブ[VIII]",
+    "name": "Detective [VIII]",
     "shortDescription": "DEF DOWN [VIII] (Target/1 Turn) / Remove Status Ailments (Self)"
   },
   "138600": {
-    "name": "グロー・アデプト[II]",
+    "name": "Glow Adept [II]",
     "shortDescription": "ATK UP [II] / DEF UP [II] / Status Ailment Resistance UP [II]"
   },
   "138601": {
-    "name": "グロー・アデプト[III]",
+    "name": "Glow Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [II] / Status Ailment Resistance UP [III]"
   },
   "138700": {
-    "name": "サプレス・アタック[II]",
+    "name": "Suppress Attack [II]",
     "shortDescription": "ATK DOWN [II] (All Foes/3 Turns)"
   },
   "138701": {
-    "name": "サプレス・アタック[III]",
+    "name": "Suppress Attack [III]",
     "shortDescription": "ATK DOWN [III] (All Foes/3 Turns)"
   },
   "138800": {
-    "name": "アンチ・ジャマ―[VI]",
-    "shortDescription": "確率でスキル不可無効[VI]"
+    "name": "Anti-Jammer [VI]",
+    "shortDescription": "Negate Skill Seal Chance [VI]"
   },
   "138801": {
-    "name": "アンチ・ジャマ―",
+    "name": "Anti-Jammer",
     "shortDescription": "Negate Skill Seal"
   },
   "138900": {
     "name": "Clever Adept [II]",
-    "shortDescription": "MP Gain UP [II] / Get More MP when Hit by Weak Element [I]"
+    "shortDescription": "MP Gain DOWN UP [II] / Get More MP when Hit by Weak Element [I]"
   },
   "138901": {
     "name": "Clever Adept [III]",
-    "shortDescription": "MP Gain UP [III] / Get More MP when Hit by Weak Element [I]"
+    "shortDescription": "MP Gain DOWN UP [III] / Get More MP when Hit by Weak Element [I]"
   },
   "139000": {
-    "name": "レゾナンス・Blast UP [I]",
-    "shortDescription": "Negate Evade / Blast Damage UP [I](味全/1T)"
+    "name": "Resonance Blast UP [I]",
+    "shortDescription": "Negate Evade / Blast Damage UP [I] (Team/1 Turn)"
   },
   "139001": {
-    "name": "レゾナンス・Blast UP [II]",
-    "shortDescription": "Negate Evade / Blast Damage UP [II](味全/1T)"
+    "name": "Resonance Blast UP [II]",
+    "shortDescription": "Negate Evade / Blast Damage UP [II] (Team/1 Turn)"
   },
   "139100": {
-    "name": "ライトステップ・アデプト[II]",
+    "name": "Light Step Adept [II]",
     "shortDescription": "Accele MP UP [II] / Evade Chance [II]"
   },
   "139101": {
-    "name": "ライトステップ・アデプト[III]",
+    "name": "Light Step Adept [III]",
     "shortDescription": "Accele MP UP [III] / Evade Chance [III]"
   },
   "139200": {
-    "name": "レイ・オブ・ホープ[II]",
+    "name": "Ray of Hope [II]",
     "shortDescription": "Damage UP [II] / Negate Fog / Negate Blind"
   },
   "139201": {
-    "name": "レイ・オブ・ホープ[III]",
+    "name": "Ray of Hope [III]",
     "shortDescription": "Damage UP [III] / Negate Fog / Negate Blind"
   },
   "139300": {
@@ -3152,51 +3152,51 @@
     "shortDescription": "ATK UP [V] / Damage After Using Charge UP [IV]  (Self/1 Turn)"
   },
   "139400": {
-    "name": "イレーション・アデプト[II]",
+    "name": "Elation Adept [II]",
     "shortDescription": "Critical Hit Chance [II] / Status Ailment Resistance UP [II]"
   },
   "139401": {
-    "name": "イレーション・アデプト[III]",
+    "name": "Elation Adept [III]",
     "shortDescription": "Critical Hit Chance [III] / Status Ailment Resistance UP [III]"
   },
   "139500": {
-    "name": "リジェネレイト・ブラスト[III]",
+    "name": "Regenerate Blast [III]",
     "shortDescription": "Blast Damage UP [III] / HP Regen [III] (Self/3 Turns)"
   },
   "139501": {
-    "name": "リジェネレイト・ブラスト[IV]",
+    "name": "Regenerate Blast [IV]",
     "shortDescription": "Blast Damage UP [IV] / HP Regen [IV] (Self/3 Turns)"
   },
   "139600": {
     "name": "Cure Heal [I]",
-    "shortDescription": "HPの低い仲間一人にHeal [I]"
+    "shortDescription": "Heals an ally with low HP [I]"
   },
   "139601": {
     "name": "Cure Heal [I]",
-    "shortDescription": "HPの低い仲間一人にHeal [I]"
+    "shortDescription": "Heals an ally with low HP [I]"
   },
   "139700": {
-    "name": "アンブリンキング・アデプト[II]",
+    "name": "Unblinking Adept [II]",
     "shortDescription": "HP Regen [II] / Damage UP [III] / Negate Stun"
   },
   "139701": {
-    "name": "アンブリンキング・アデプト[III]",
+    "name": "Unblinking Adept [III]",
     "shortDescription": "HP Regen [III] / Damage UP [IV] / Negate Stun"
   },
   "139800": {
-    "name": "ジャマー・ブレイド[III]",
+    "name": "Jammer Blade [III]",
     "shortDescription": "Skill Seal  (1 Turn) Chance upon Attack [III] / Damage Inflicted UP [III]"
   },
   "139801": {
-    "name": "ジャマー・ブレイド[IV]",
+    "name": "Jammer Blade [IV]",
     "shortDescription": "Skill Seal  (1 Turn) Chance upon Attack [IV] / Damage Inflicted UP [IV]"
   },
   "139900": {
-    "name": "フォースアウト・カウンター[VII]",
+    "name": "Force-Out Counter [VII]",
     "shortDescription": "DEF DOWN [VII] (Target/1 Turn) / Negate Counter (Self/1 Turn)"
   },
   "139901": {
-    "name": "フォースアウト・カウンター[VIII]",
+    "name": "Force-Out Counter [VIII]",
     "shortDescription": "DEF DOWN [VIII] (Target/1 Turn) / Negate Counter (Self/1 Turn)"
   },
   "140000": {
@@ -3224,12 +3224,12 @@
     "shortDescription": "Re-Draw Disks"
   },
   "140300": {
-    "name": "ジャックポット・ストライク[XII]",
-    "shortDescription": "Critical Hit Chance [XII] / Chance to Ignore Defense [VIII] (Self/1 Turn) / 自身にGuaranteed Blind / Bewitch Chance  (1 Turn)"
+    "name": "Jackpot Strike [XII]",
+    "shortDescription": "Critical Hit Chance [XII] / Chance to Ignore Defense [VIII] (Self/1 Turn) / Guaranteed Blind / Bewitch Chance (1 Turn)"
   },
   "140301": {
-    "name": "ジャックポット・ストライク[XIII]",
-    "shortDescription": "Critical Hit Chance [XIII] / Chance to Ignore Defense [IX] (Self/1 Turn) / 自身にGuaranteed Blind&Bewitch Chance  (1 Turn)"
+    "name": "Jackpot Strike [XIII]",
+    "shortDescription": "Critical Hit Chance [XIII] / Chance to Ignore Defense [IX] (Self/1 Turn) / Guaranteed Blind / Bewitch Chance (1 Turn)"
   },
   "140400": {
     "name": "Berserk Adept [III]",
@@ -3240,43 +3240,43 @@
     "shortDescription": "ATK UP [IV] / DEF DOWN [V]"
   },
   "140500": {
-    "name": "グラムイミュニティライズ[II]",
+    "name": "Glam Immunity Master [II]",
     "shortDescription": "Accele MP UP [II] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "140501": {
-    "name": "グラムイミュニティライズ[IV]",
+    "name": "Glam Immunity Master [IV]",
     "shortDescription": "Accele MP UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "140600": {
-    "name": "ナローシールド[II]",
+    "name": "Narrow Shield [II]",
     "shortDescription": "Reduce Damage [II] / ATK UP when near-fainting [I] / DEF UP when near-fainting [I]"
   },
   "140601": {
-    "name": "ナローシールド[III]",
+    "name": "Narrow Shield [III]",
     "shortDescription": "Reduce Damage [III] / ATK UP when near-fainting [II] / DEF UP when near-fainting [II]"
   },
   "140700": {
-    "name": "Resist Master ・サークル[II]",
-    "shortDescription": "Status Ailment Resistance UP [II](味全/3T)"
+    "name": "Resist Master Circle [II]",
+    "shortDescription": "Status Ailment Resistance UP [II] (Team/3 Turns)"
   },
   "140701": {
-    "name": "Resist Master ・サークル[II]",
-    "shortDescription": "Status Ailment Resistance UP [II](味全/3T)"
+    "name": "Resist Master Circle [II]",
+    "shortDescription": "Status Ailment Resistance UP [II] (Team/3 Turns)"
   },
   "140800": {
-    "name": "ディストラクション[VII]",
+    "name": "Distraction [VII]",
     "shortDescription": "Magia Damage DOWN [VII] / ATK DOWN [V] (Target/1 Turn)"
   },
   "140801": {
-    "name": "ディストラクション[VIII]",
+    "name": "Distraction [VIII]",
     "shortDescription": "Magia Damage DOWN [VIII] / ATK DOWN [VI] (Target/1 Turn)"
   },
   "140900": {
-    "name": "シールド・フォース[IV]",
+    "name": "Shield Force [IV]",
     "shortDescription": "Reduce Damage [IV] / Critical Hit Chance [IV] (Self/3 Turns)"
   },
   "140901": {
-    "name": "シールド・フォース[V]",
+    "name": "Shield Force [V]",
     "shortDescription": "Reduce Damage [V] / Critical Hit Chance [V] (Self/3 Turns)"
   },
   "141100": {
@@ -3288,27 +3288,27 @@
     "shortDescription": "Damage After Using Charge UP [IV] / Blast Damage UP [II]"
   },
   "141200": {
-    "name": "アサルトブレイク[I] ",
+    "name": "Assault Break [I] ",
     "shortDescription": "ATK DOWN [I] / Damage Inflicted DOWN [I] (Target/3 Turns)"
   },
   "141201": {
-    "name": "アサルトブレイク[II]",
+    "name": "Assault Break [II]",
     "shortDescription": "ATK DOWN [II] / Damage Inflicted DOWN [II] (Target/3 Turns)"
   },
   "141300": {
-    "name": "まっしろな未来[II]",
-    "shortDescription": "MP回復[II](Self)"
+    "name": "Pure White Futures [II]",
+    "shortDescription": "MP Restore [II] (Self)"
   },
   "141301": {
-    "name": "まっしろな未来[II]",
-    "shortDescription": "MP回復[II](Self)"
+    "name": "Pure White Futures [II]",
+    "shortDescription": "MP Restore [II] (Self)"
   },
   "141400": {
-    "name": "パフォーマーズ・ビリーフ[VII]",
+    "name": "Performers' Belief [VII]",
     "shortDescription": "Follow Up Attack Chance [VII] / Endure  (Self/1 Turn)"
   },
   "141401": {
-    "name": "パフォーマーズ・ビリーフ[IX]",
+    "name": "Performers' Belief [IX]",
     "shortDescription": "Follow Up Attack Chance [IX] / Endure  (Self/1 Turn)"
   },
   "141500": {
@@ -3328,51 +3328,51 @@
     "shortDescription": "DEF UP when near-fainting [II] / DEF UP [III] / Reduce Damage [II]"
   },
   "141700": {
-    "name": "ロバスト・アンチバーン[II]",
+    "name": "Robust Anti-Burn [II]",
     "shortDescription": "DEF UP when near-fainting [II] / DEF UP [IV] / Negate Burn"
   },
   "141701": {
-    "name": "ロバスト・アンチバーン[III]",
+    "name": "Robust Anti-Burn [III]",
     "shortDescription": "DEF UP when near-fainting [III] / DEF UP [V] / Negate Burn"
   },
   "141800": {
-    "name": "オールディスク・サークル[I]",
-    "shortDescription": "Blast Damage UP [I] / Damage After Using Charge UP [I] / Accele MP UP [I](味全/3T)"
+    "name": "All Disc Circle [I]",
+    "shortDescription": "Blast Damage UP [I] / Damage After Using Charge UP [I] / Accele MP UP [I] (Team/3 Turns)"
   },
   "141801": {
-    "name": "オールディスク・サークル[I]",
-    "shortDescription": "Blast Damage UP [I] / Damage After Using Charge UP [I] / Accele MP UP [I](味全/3T)"
+    "name": "All Disc Circle [I]",
+    "shortDescription": "Blast Damage UP [I] / Damage After Using Charge UP [I] / Accele MP UP [I] (Team/3 Turns)"
   },
   "141900": {
-    "name": "ディスアポイントメント[III]",
-    "shortDescription": "ATK DOWN [III] / MP獲得量DOWN[III] (All Foes/1 Turn)"
+    "name": "Disappointment [III]",
+    "shortDescription": "ATK DOWN [III] / MP Gain DOWN [III] (All Foes/1 Turn)"
   },
   "141901": {
-    "name": "ディスアポイントメント[IV]",
-    "shortDescription": "ATK DOWN [IV] / MP獲得量DOWN[IV] (All Foes/1 Turn)"
+    "name": "Disappointment [IV]",
+    "shortDescription": "ATK DOWN [IV] / MP Gain DOWN [IV] (All Foes/1 Turn)"
   },
   "142000": {
-    "name": "もう一度、手を取って[III]",
-    "shortDescription": "Blast Damage UP [III] / Accele MP UP [III] &『Rumors in Disguise』最終ボスに…"
+    "name": "Once Again, Taking Your Hand [III]",
+    "shortDescription": "Blast Damage UP [III] / Accele MP UP [III] & During the Final Battle of \"Rumors in Disguise\"..."
   },
   "142001": {
-    "name": "もう一度、手を取って[III]",
-    "shortDescription": "Blast Damage UP [III] / Accele MP UP [III] &『Rumors in Disguise』最終ボスに…"
+    "name": "Once Again, Taking Your Hand [III]",
+    "shortDescription": "Blast Damage UP [III] / Accele MP UP [III] & During the Final Battle of \"Rumors in Disguise\"..."
   },
   "142100": {
-    "name": "エスペランサ―・フォース[I]",
+    "name": "Esperanza Force [I]",
     "shortDescription": "Critical Hit Chance [I] / ATK UP [II] (Self/3 Turns)"
   },
   "142101": {
-    "name": "エスペランサ―・フォース[I]",
+    "name": "Esperanza Force [I]",
     "shortDescription": "Critical Hit Chance [I] / ATK UP [III] (Self/3 Turns)"
   },
   "142200": {
-    "name": "エスペランサ―・ストライク[III]",
+    "name": "Esperansa Strike [III]",
     "shortDescription": "Critical Hit Chance [III] / ATK UP [V] (Self/1 Turn)"
   },
   "142201": {
-    "name": "エスペランサ―・ストライク[IV]",
+    "name": "Esperansa Strike [IV]",
     "shortDescription": "Critical Hit Chance [IV] / ATK UP [VI] (Self/1 Turn)"
   },
   "142300": {
@@ -3384,12 +3384,12 @@
     "shortDescription": "Blast Damage UP [VI] / Accele MP UP [VI] (Self/1 Turn)"
   },
   "142400": {
-    "name": "アンチ・Poison [VII] ",
-    "shortDescription": "Poison Chance 無効[VII] / Blast Damage UP [I]"
+    "name": "Anti-Poison [VII] ",
+    "shortDescription": "Negate Poison Chance [VII] / Blast Damage UP [I]"
   },
   "142401": {
-    "name": "アンチ・Poison ",
-    "shortDescription": "Guaranteed Poison無効 / Blast Damage UP [II]"
+    "name": "Anti-Poison",
+    "shortDescription": "Negate Poison / Blast Damage UP [II]"
   },
   "142500": {
     "name": "Monopolize Draw",
@@ -3408,35 +3408,35 @@
     "shortDescription": "Earn more Curse Chips (CC) [II] (Affects CC dropped in Quests, no effect when equipped as Support)"
   },
   "142700": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "142701": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "142800": {
-    "name": "ブラストエキスパート[IV]",
+    "name": "Blast Expert [IV]",
     "shortDescription": "Blast Damage UP [IV] / Blast Reduce Damage [II]"
   },
   "142801": {
-    "name": "ブラストエキスパート[V]",
+    "name": "Blast Expert [V]",
     "shortDescription": "Blast Damage UP [V] / Blast Reduce Damage [III]"
   },
   "142900": {
-    "name": "Brandish ライズ[III]",
+    "name": "Brandish Master [III]",
     "shortDescription": "Blast Damage UP [III] / Damage Inflicted UP [II] (Self/3 Turns)"
   },
   "142901": {
-    "name": "Brandish ライズ[IV]",
+    "name": "Brandish Master [IV]",
     "shortDescription": "Blast Damage UP [IV] / Damage Inflicted UP [III] (Self/3 Turns)"
   },
   "143000": {
-    "name": "レイジー・アウェイキング[VI]",
+    "name": "Lazy Awakening [VI]",
     "shortDescription": "DEF DOWN [VI] (All Foes/1 Turn) / Status Ailment Resistance UP [V] (Self/1 Turn)"
   },
   "143001": {
-    "name": "レイジー・アウェイキング[VII]",
+    "name": "Lazy Awakening [VII]",
     "shortDescription": "DEF DOWN [VII] (All Foes/1 Turn) / Status Ailment Resistance UP [VI] (Self/1 Turn)"
   },
   "143100": {
@@ -3448,11 +3448,11 @@
     "shortDescription": "Remove Debuffs (Self)"
   },
   "143200": {
-    "name": "リバティ[II]",
-    "shortDescription": "ATK UP [II] / 確率で拘束無効[VI]"
+    "name": "Liberty [II]",
+    "shortDescription": "ATK UP [II] / Negate Bind Chance [VI]"
   },
   "143201": {
-    "name": "リバティ[III]",
+    "name": "Liberty [III]",
     "shortDescription": "ATK UP [III] / Negate Bind"
   },
   "143300": {
@@ -3464,20 +3464,20 @@
     "shortDescription": "Evade (Self/1 Turn)"
   },
   "143400": {
-    "name": "ブラー・ヘイズ[VII]",
+    "name": "Blur Haze [VII]",
     "shortDescription": "Blast Damage DOWN [VII] / Fog Chance [XV] (Target/3 Turns)"
   },
   "143401": {
-    "name": "ブラー・ヘイズ[VIII]",
-    "shortDescription": "Blast Damage DOWN [VIII] / 必ず霧 (Target/3 Turns)"
+    "name": "Blur Haze [VIII]",
+    "shortDescription": "Blast Damage DOWN [VIII] / Guaranteed Fog (Target/3 Turns)"
   },
   "143500": {
-    "name": "ウィル・アデプト[II]",
-    "shortDescription": "ATK UP [II] / Taunt 無視[IV]"
+    "name": "Will Adept [II]",
+    "shortDescription": "ATK UP [II] / Anti-Taunt Chance [IV]"
   },
   "143501": {
-    "name": "ウィル・アデプト[III]",
-    "shortDescription": "ATK UP [III] / Taunt 無視[VI]"
+    "name": "Will Adept [III]",
+    "shortDescription": "ATK UP [III] / Anti-Taunt Chance [VI]"
   },
   "143600": {
     "name": "Counteract",
@@ -3488,11 +3488,11 @@
     "shortDescription": "Remove Debuffs (Self)"
   },
   "143700": {
-    "name": "クリアハート・アデプト[IV]",
+    "name": "Clear Heart Adept [IV]",
     "shortDescription": "Accele MP UP [IV] / Damage UP [III]"
   },
   "143701": {
-    "name": "クリアハート・アデプト[V]",
+    "name": "Clear Heart Adept [V]",
     "shortDescription": "Accele MP UP [V] / Damage UP [IV]"
   },
   "143800": {
@@ -3504,12 +3504,12 @@
     "shortDescription": "ATK UP [IV] / Chance to Ignore Defense [VII] (Self/1 Turn)"
   },
   "143900": {
-    "name": "マギアエキスパート[III]",
-    "shortDescription": "Magia Damage UP [III] / マギアReduce Damage [III]"
+    "name": "Magia Expert [III]",
+    "shortDescription": "Magia Damage UP [III] / Reduce Magia Damage [III]"
   },
   "143901": {
-    "name": "マギアエキスパート[IV]",
-    "shortDescription": "Magia Damage UP [IV] / マギアReduce Damage [IV]"
+    "name": "Magia Expert [IV]",
+    "shortDescription": "Magia Damage UP [IV] / Reduce Magia Damage [IV]"
   },
   "144000": {
     "name": "Astral Master [III] ",
@@ -3536,11 +3536,11 @@
     "shortDescription": "Guaranteed Guard for Ally (1 Turn)"
   },
   "144300": {
-    "name": "フルスウィングライズ[IV]",
+    "name": "Full Swing Master [IV]",
     "shortDescription": "Damage After Using Charge UP [IV] / Blast Damage UP [III] (Self/3 Turns)"
   },
   "144301": {
-    "name": "フルスウィングライズ[V]",
+    "name": "Full Swing Master [V]",
     "shortDescription": "Damage After Using Charge UP [V] / Blast Damage UP [IV] (Self/3 Turns)"
   },
   "144400": {
@@ -3560,44 +3560,44 @@
     "shortDescription": "Damage UP [V] / Reduce Damage [IV] (Self/3 Turns)"
   },
   "144600": {
-    "name": "バイタルAttack Adept [I]",
+    "name": "Vital Attack Adept [I]",
     "shortDescription": "HP Regen [I] / ATK UP [II]"
   },
   "144601": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [III] / ATK UP [II]"
   },
   "144700": {
-    "name": "マギア・ウォール[III]",
+    "name": "Magia Wall [III]",
     "shortDescription": "Reduce Damage [III] / Magia Damage UP [III] (Self/3 Turns)"
   },
   "144701": {
-    "name": "マギア・ウォール[IV]",
+    "name": "Magia Wall [IV]",
     "shortDescription": "Reduce Damage [IV] / Magia Damage UP [IV] (Self/3 Turns)"
   },
   "144800": {
-    "name": "リジェネレイト・ドッジ[III]",
+    "name": "Regenerate Dodge [III]",
     "shortDescription": "Evade Chance [III] / HP Regen [III]  (Self/3 Turns)"
   },
   "144801": {
-    "name": "リジェネレイト・ドッジ[IV]",
+    "name": "Regenerate Dodge [IV]",
     "shortDescription": "Evade Chance [IV] / HP Regen [IV]  (Self/3 Turns)"
   },
   "144900": {
-    "name": "エルピーダ・アデプト[III]",
+    "name": "Elpida Adept [III]",
     "shortDescription": "Critical Hit Chance [III] / ATK UP [I] / Negate Charm"
   },
   "144901": {
-    "name": "エルピーダ・アデプト[IV]",
+    "name": "Elpida Adept [IV]",
     "shortDescription": "Critical Hit Chance [IV] / ATK UP [II] / Negate Charm"
   },
   "145000": {
-    "name": "フォーギブネス[II]",
-    "shortDescription": "HP Regen [II] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Forgiveness [II]",
+    "shortDescription": "HP Regen [II] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "145001": {
-    "name": "フォーギブネス[III]",
-    "shortDescription": "HP Regen [III] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Forgiveness [III]",
+    "shortDescription": "HP Regen [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "145100": {
     "name": "Disk Shuffle",
@@ -3608,11 +3608,11 @@
     "shortDescription": "Re-Draw Disks"
   },
   "145200": {
-    "name": "チャージライズ・シールド[III]",
+    "name": "Charge Master Shield [III]",
     "shortDescription": "Reduce Damage [III] / Damage After Using Charge UP [II] (Self/3 Turns)"
   },
   "145201": {
-    "name": "チャージライズ・シールド[IV]",
+    "name": "Charge Master Shield [IV]",
     "shortDescription": "Reduce Damage [IV] / Damage After Using Charge UP [III] (Self/3 Turns)"
   },
   "145300": {
@@ -3641,11 +3641,11 @@
   },
   "145600": {
     "name": "モラールイミュニティライズ[III]",
-    "shortDescription": "MP Gain UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "145601": {
     "name": "モラールイミュニティライズ[IV]",
-    "shortDescription": "MP Gain UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "145700": {
     "name": "リジェネレイトブルーム[IV]",
@@ -3680,12 +3680,12 @@
     "shortDescription": "Damage After Using Charge UP [V] / Blast Damage UP [III] / Status Ailment Resistance UP [III]"
   },
   "146100": {
-    "name": "グリッターライズ[II]",
-    "shortDescription": "ATK UP [II] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Glitterize [II]",
+    "shortDescription": "ATK UP [II] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "146101": {
-    "name": "グリッターライズ[III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Glitterize [III]",
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "146200": {
     "name": "ネグレクト・カウンター[V]",
@@ -3728,11 +3728,11 @@
     "shortDescription": "Critical Hit Chance [III] / Damage After Using Charge UP [III]"
   },
   "146700": {
-    "name": "ハートウォーム・アデプト[II]",
+    "name": "Heartwarm Adept [II]",
     "shortDescription": "Increases Episode Points Earned [II] / HP Regen [III]"
   },
   "146701": {
-    "name": "ハートウォーム・アデプト[II]",
+    "name": "Heartwarm Adept [II]",
     "shortDescription": "Increases Episode Points Earned [II] / HP Regen [III]"
   },
   "146800": {
@@ -3761,11 +3761,11 @@
   },
   "147100": {
     "name": "キャッソーゾ・サポート[I]",
-    "shortDescription": "Blast Damage UP [I] / Magia Damage UP [I](味全/1T)& ATK DOWN (自/2T)"
+    "shortDescription": "Blast Damage UP [I] / Magia Damage UP [I] (Team/1 Turn)& ATK DOWN (自/2T)"
   },
   "147101": {
     "name": "キャッソーゾ・サポート[II]",
-    "shortDescription": "Blast Damage UP [II] / Magia Damage UP [II](味全/1T)& ATK DOWN (自/2T)"
+    "shortDescription": "Blast Damage UP [II] / Magia Damage UP [II] (Team/1 Turn)& ATK DOWN (自/2T)"
   },
   "147200": {
     "name": "Armament Adept [IV]",
@@ -3808,11 +3808,11 @@
     "shortDescription": "必ずマギア不可 / ATK DOWN [VII] (Target/1 Turn)"
   },
   "147700": {
-    "name": "マナガイザー[III]",
+    "name": "Magia Geyser [III]",
     "shortDescription": "HP Regen [III] / Magia Damage UP [III] (Self/3 Turns)"
   },
   "147701": {
-    "name": "マナガイザー[IV]",
+    "name": "Magia Geyser [IV]",
     "shortDescription": "HP Regen [IV] / Magia Damage UP [IV] (Self/3 Turns)"
   },
   "147800": {
@@ -3824,11 +3824,11 @@
     "shortDescription": "Negate Magia Seal Chance [X] / DEF UP [IV]"
   },
   "147900": {
-    "name": "ブルーム・アデプト[II]",
+    "name": "Bloom Adept [II]",
     "shortDescription": "ATK UP [II] / DEF UP [II]"
   },
   "147901": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "148000": {
@@ -3896,12 +3896,12 @@
     "shortDescription": "Charm (1 Turn) Chance upon Attack [III] / ATK UP [II]"
   },
   "148800": {
-    "name": "グリッターライズ[III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [I] (Self/3 Turns)"
+    "name": "Glitterize [III]",
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [I] (Self/3 Turns)"
   },
   "148801": {
-    "name": "グリッターライズ[IV]",
-    "shortDescription": "ATK UP [IV] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Glitterize [IV]",
+    "shortDescription": "ATK UP [IV] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "148900": {
     "name": "Elimination Adept [IV]",
@@ -4025,11 +4025,11 @@
   },
   "150400": {
     "name": "パーシスト・アデプト[II]",
-    "shortDescription": "Damage Inflicted UP [II] / Taunt 無視[IV]"
+    "shortDescription": "Damage Inflicted UP [II] / Anti-Taunt Chance [IV]"
   },
   "150401": {
     "name": "パーシスト・アデプト[III]",
-    "shortDescription": "Damage Inflicted UP [III] / Taunt 無視[VI]"
+    "shortDescription": "Damage Inflicted UP [III] / Anti-Taunt Chance [VI]"
   },
   "150500": {
     "name": "Poison ・ゲイズ[III]",
@@ -4080,12 +4080,12 @@
     "shortDescription": "Blast Damage UP [IV] / Accele MP UP [IV]"
   },
   "151100": {
-    "name": "Guard Master ・サークル[II]",
-    "shortDescription": "DEF UP [II](味全/3T)"
+    "name": "Guard Master Circle [II]",
+    "shortDescription": "DEF UP [II] (Team/3 Turns)"
   },
   "151101": {
-    "name": "Guard Master ・サークル[III]",
-    "shortDescription": "DEF UP [III](味全/3T)"
+    "name": "Guard Master Circle [III]",
+    "shortDescription": "DEF UP [III] (Team/3 Turns)"
   },
   "151200": {
     "name": "Smite Adept [I]",
@@ -4097,19 +4097,19 @@
   },
   "151300": {
     "name": "モラールShield Adept [II]",
-    "shortDescription": "Reduce Damage [II] / MP Gain UP [II]"
+    "shortDescription": "Reduce Damage [II] / MP Gain DOWN UP [II]"
   },
   "151301": {
     "name": "モラールShield Adept [III]",
-    "shortDescription": "Reduce Damage [III] / MP Gain UP [III]"
+    "shortDescription": "Reduce Damage [III] / MP Gain DOWN UP [III]"
   },
   "151400": {
-    "name": "グリッターライズ[III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [I] (Self/3 Turns)"
+    "name": "Glitterize [III]",
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [I] (Self/3 Turns)"
   },
   "151401": {
-    "name": "グリッターライズ[IV]",
-    "shortDescription": "ATK UP [IV] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Glitterize [IV]",
+    "shortDescription": "ATK UP [IV] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "151500": {
     "name": "Full Gauge Shield [VII]",
@@ -4200,12 +4200,12 @@
     "shortDescription": "ATK UP [III] / Burn (2 Turns) Chance upon Attack [V]"
   },
   "152600": {
-    "name": "Resist Master ・サークル[IV]",
-    "shortDescription": "Status Ailment Resistance UP [IV](味全/3T)"
+    "name": "Resist Master Circle [IV]",
+    "shortDescription": "Status Ailment Resistance UP [IV] (Team/3 Turns)"
   },
   "152601": {
-    "name": "Resist Master ・サークル[V]",
-    "shortDescription": "Status Ailment Resistance UP [V](味全/3T)"
+    "name": "Resist Master Circle [V]",
+    "shortDescription": "Status Ailment Resistance UP [V] (Team/3 Turns)"
   },
   "152700": {
     "name": "私しかいない世界",
@@ -4217,11 +4217,11 @@
   },
   "152800": {
     "name": "Attack UP ・サークル[V]",
-    "shortDescription": "ATK UP [V](味全/1T)"
+    "shortDescription": "ATK UP [V] (Team/1 Turn)"
   },
   "152801": {
     "name": "Attack UP ・サークル[VI]",
-    "shortDescription": "ATK UP [VI](味全/1T)"
+    "shortDescription": "ATK UP [VI] (Team/1 Turn)"
   },
   "152900": {
     "name": "クリアマインド[V]",
@@ -4240,12 +4240,12 @@
     "shortDescription": "Stun (1 Turn) Chance upon Attack [III] / ATK UP [II]"
   },
   "153100": {
-    "name": "マギアシールド・サークル[IV]",
-    "shortDescription": "マギアReduce Damage [IV](味全/1T)"
+    "name": "Magia Shield ・サークル[IV]",
+    "shortDescription": "Reduce Magia Damage [IV] (Team/1 Turn)"
   },
   "153101": {
-    "name": "マギアシールド・サークル[V]",
-    "shortDescription": "マギアReduce Damage [V](味全/1T)"
+    "name": "Magia Shield ・サークル[V]",
+    "shortDescription": "Reduce Magia Damage [V] (Team/1 Turn)"
   },
   "153200": {
     "name": "スラスト・アデプト[II]",
@@ -4273,11 +4273,11 @@
   },
   "153500": {
     "name": "ソニック・スラスト[VI]",
-    "shortDescription": "Damage Inflicted UP [VI] / 確率でダメージカット無視[VIII] (Self/1 Turn)"
+    "shortDescription": "Damage Inflicted UP [VI] / Chance to Ignore Reduce Damage [VIII] (Self/1 Turn)"
   },
   "153501": {
     "name": "ソニック・スラスト[VII]",
-    "shortDescription": "Damage Inflicted UP [VII] / 確率でダメージカット無視[IX] (Self/1 Turn)"
+    "shortDescription": "Damage Inflicted UP [VII] / Chance to Ignore Reduce Damage [IX] (Self/1 Turn)"
   },
   "153600": {
     "name": "ミスティックタッチ[IX]",
@@ -4305,26 +4305,26 @@
   },
   "153900": {
     "name": "ふたりでいれば、大丈夫です",
-    "shortDescription": "ATK UP [V] (Self/3 Turns) / Heal [II] / MP回復[II](Self) "
+    "shortDescription": "ATK UP [V] (Self/3 Turns) / Heal [II] / MP Restore [II] (Self) "
   },
   "153901": {
     "name": "ふたりでいれば、大丈夫です",
-    "shortDescription": "ATK UP [V] (Self/3 Turns) / Heal [II] / MP回復[II](Self) "
+    "shortDescription": "ATK UP [V] (Self/3 Turns) / Heal [II] / MP Restore [II] (Self) "
   },
   "154000": {
-    "name": "Uplift ・アデプト[IV]",
+    "name": "Uplift Adept [IV]",
     "shortDescription": "ATK UP [IV] / Status Ailment Resistance UP [II]"
   },
   "154001": {
-    "name": "Uplift ・アデプト[V]",
+    "name": "Uplift Adept [V]",
     "shortDescription": "ATK UP [V] / Status Ailment Resistance UP [III]"
   },
   "154100": {
-    "name": "ブルーム・アデプト[IV]",
+    "name": "Bloom Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [IV]"
   },
   "154101": {
-    "name": "ブルーム・アデプト[V]",
+    "name": "Bloom Adept [V]",
     "shortDescription": "ATK UP [V] / DEF UP [V]"
   },
   "154200": {
@@ -4377,11 +4377,11 @@
   },
   "154800": {
     "name": "アダマント・アデプト[IV]",
-    "shortDescription": "Guaranteed Poison無効 / Negate Charm / DEF UP [IV]"
+    "shortDescription": "Negate Poison / Negate Charm / DEF UP [IV]"
   },
   "154801": {
     "name": "アダマント・アデプト[V]",
-    "shortDescription": "Guaranteed Poison無効 / Negate Charm / DEF UP [V]"
+    "shortDescription": "Negate Poison / Negate Charm / DEF UP [V]"
   },
   "154900": {
     "name": "モラールBlast Adept [IV]",
@@ -4393,11 +4393,11 @@
   },
   "155000": {
     "name": "パーシストWeapon Adept [V]",
-    "shortDescription": "Damage UP [V] / Taunt 無視[V]"
+    "shortDescription": "Damage UP [V] / Anti-Taunt Chance [V]"
   },
   "155001": {
     "name": "パーシストWeapon Adept [VI]",
-    "shortDescription": "Damage UP [VI] / Taunt 無視[VIII]"
+    "shortDescription": "Damage UP [VI] / Anti-Taunt Chance [VIII]"
   },
   "155100": {
     "name": "アンチ・デバフ",
@@ -4409,11 +4409,11 @@
   },
   "155200": {
     "name": "モラール・ブレイク[VII]",
-    "shortDescription": "MP獲得量 DOWN[VII] (Target/3 Turns)"
+    "shortDescription": "MP Gain DOWN DOWN [VII] (Target/3 Turns)"
   },
   "155201": {
     "name": "モラール・ブレイク[VII]",
-    "shortDescription": "MP獲得量 DOWN[VII] (Target/3 Turns)"
+    "shortDescription": "MP Gain DOWN DOWN [VII] (Target/3 Turns)"
   },
   "155300": {
     "name": "イグノア・メズマライズ[II]",
@@ -4433,11 +4433,11 @@
   },
   "155500": {
     "name": "モラールWeapon Adept [III]",
-    "shortDescription": "Damage UP [III] / MP Gain UP [II]"
+    "shortDescription": "Damage UP [III] / MP Gain DOWN UP [II]"
   },
   "155501": {
     "name": "モラールWeapon Adept [IV]",
-    "shortDescription": "Damage UP [IV] / MP Gain UP [IV]"
+    "shortDescription": "Damage UP [IV] / MP Gain DOWN UP [IV]"
   },
   "155600": {
     "name": "Chase Attack[IV]",
@@ -4448,11 +4448,11 @@
     "shortDescription": "Follow Up Attack Chance [V] (Self/1 Turn)"
   },
   "155700": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [III] / ATK UP [III]"
   },
   "155701": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [III] / ATK UP [III]"
   },
   "155800": {
@@ -4465,19 +4465,19 @@
   },
   "155900": {
     "name": "HCure Heal [IV]",
-    "shortDescription": "HPの低い仲間一人にHeal [I] / DEF UP [IV] (Self/3 Turns)"
+    "shortDescription": "Heals an ally with low HP [I] / DEF UP [IV] (Self/3 Turns)"
   },
   "155901": {
     "name": "HCure Heal [IV]",
-    "shortDescription": "HPの低い仲間一人にHeal [I] / DEF UP [IV] (Self/3 Turns)"
+    "shortDescription": "Heals an ally with low HP [I] / DEF UP [IV] (Self/3 Turns)"
   },
   "156000": {
     "name": "ナーシング・サークル[II]",
-    "shortDescription": "HP Regen [II] / MP Regen [I](味全/3T)"
+    "shortDescription": "HP Regen [II] / MP Regen [I] (Team/3 Turns)"
   },
   "156001": {
     "name": "ナーシング・サークル[III]",
-    "shortDescription": "HP Regen [III] / MP Regen [I](味全/3T)"
+    "shortDescription": "HP Regen [III] / MP Regen [I] (Team/3 Turns)"
   },
   "156100": {
     "name": "Smite UP [VIII]",
@@ -4513,11 +4513,11 @@
   },
   "156500": {
     "name": "モラールShield Adept [II]",
-    "shortDescription": "Reduce Damage [II] / MP Gain UP [II]"
+    "shortDescription": "Reduce Damage [II] / MP Gain DOWN UP [II]"
   },
   "156501": {
     "name": "モラールShield Adept [III]",
-    "shortDescription": "Reduce Damage [III] / MP Gain UP [III]"
+    "shortDescription": "Reduce Damage [III] / MP Gain DOWN UP [III]"
   },
   "156600": {
     "name": "サプレス・レジスト[II]",
@@ -4553,7 +4553,7 @@
   },
   "157000": {
     "name": "イグノア・スタン[II]",
-    "shortDescription": "ATK UP [II] / Stun Chance 無効[X]"
+    "shortDescription": "ATK UP [II] / Negate Stun Chance [X]"
   },
   "157001": {
     "name": "イグノア・スタン[III]",
@@ -4576,12 +4576,12 @@
     "shortDescription": "ATK UP [III] / Chance to Ignore Defense [III]"
   },
   "157300": {
-    "name": "マナアブソーブ[I]",
-    "shortDescription": "MPダメージ[I](敵単) / Charges MP [I] (Self)"
+    "name": "Magic Absorb [I]",
+    "shortDescription": "MP Damage [I] (Target) / Charges MP [I] (Self)"
   },
   "157301": {
-    "name": "マナアブソーブ[I]",
-    "shortDescription": "MPダメージ[I](敵単) / Charges MP [I] (Self)"
+    "name": "Magic Absorb [I]",
+    "shortDescription": "MP Damage [I] (Target) / Charges MP [I] (Self)"
   },
   "157400": {
     "name": "スラスト・アデプト[IV]",
@@ -4624,11 +4624,11 @@
     "shortDescription": "Blast Damage UP [III] / Critical Hit Chance [II] (Self/3 Turns)"
   },
   "157900": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "157901": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "158000": {
@@ -4673,11 +4673,11 @@
   },
   "158500": {
     "name": "ディリジェンス・ライズ[IV]",
-    "shortDescription": "MP Gain UP [IV] / DEF UP [III] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [IV] / DEF UP [III] (Self/3 Turns)"
   },
   "158501": {
     "name": "ディリジェンス・ライズ[IV]",
-    "shortDescription": "MP Gain UP [IV] / DEF UP [III] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [IV] / DEF UP [III] (Self/3 Turns)"
   },
   "158600": {
     "name": "イグノア・バーン[III]",
@@ -4689,7 +4689,7 @@
   },
   "158700": {
     "name": "イグノア・スタン[IV]",
-    "shortDescription": "ATK UP [IV] / Stun Chance 無効[X]"
+    "shortDescription": "ATK UP [IV] / Negate Stun Chance [X]"
   },
   "158701": {
     "name": "イグノア・スタン[V]",
@@ -4705,11 +4705,11 @@
   },
   "158900": {
     "name": "フレイムアップ・サークル[IV]",
-    "shortDescription": "火属性ATK UP [IV](味全/1T)"
+    "shortDescription": "火属性ATK UP [IV] (Team/1 Turn)"
   },
   "158901": {
     "name": "フレイムアップ・サークル[V]",
-    "shortDescription": "火属性ATK UP [V](味全/1T)"
+    "shortDescription": "火属性ATK UP [V] (Team/1 Turn)"
   },
   "159000": {
     "name": "Astral Master [VI]",
@@ -4728,11 +4728,11 @@
     "shortDescription": "Bind (1 Turn) Chance upon Attack [II] / Damage UP [III]"
   },
   "159200": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [II] / ATK UP [III]"
   },
   "159201": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [II] / ATK UP [III]"
   },
   "159300": {
@@ -4776,11 +4776,11 @@
     "shortDescription": "ATK UP [II] / Reduce Damage [II] (Self/3 Turns)"
   },
   "159800": {
-    "name": "Uplift ・アデプト[II]",
+    "name": "Uplift Adept [II]",
     "shortDescription": "ATK UP [II] / Status Ailment Resistance UP [II]"
   },
   "159801": {
-    "name": "Uplift ・アデプト[III]",
+    "name": "Uplift Adept [III]",
     "shortDescription": "ATK UP [III] / Status Ailment Resistance UP [III]"
   },
   "159900": {
@@ -4792,11 +4792,11 @@
     "shortDescription": "Damage UP [V] / Critical Hit Chance [IV]"
   },
   "160000": {
-    "name": "ブルームダウン[V]",
+    "name": "Bloom Down [V]",
     "shortDescription": "ATK DOWN [V] / DEF DOWN [V] (Target/1 Turn)"
   },
   "160001": {
-    "name": "ブルームダウン[VI]",
+    "name": "Bloom Down [VI]",
     "shortDescription": "ATK DOWN [VI] / DEF DOWN [VI] (Target/1 Turn)"
   },
   "160100": {
@@ -4848,11 +4848,11 @@
     "shortDescription": "Negate Fog / Negate Blind / Negate Bewitch "
   },
   "160700": {
-    "name": "フルスウィングライズ[III]",
+    "name": "Full Swing Master [III]",
     "shortDescription": "Damage After Using Charge UP [III] / Blast Damage UP [III] (Self/3 Turns)"
   },
   "160701": {
-    "name": "フルスウィングライズ[III]",
+    "name": "Full Swing Master [III]",
     "shortDescription": "Damage After Using Charge UP [III] / Blast Damage UP [III] (Self/3 Turns)"
   },
   "160800": {
@@ -4881,11 +4881,11 @@
   },
   "161100": {
     "name": "アトリションバーン[VI]",
-    "shortDescription": "必ずやけど (Target/1 Turn) / DEF DOWN [VI] (Target/3 Turns)"
+    "shortDescription": "Guaranteed Burn (Target/1 Turn) / DEF DOWN [VI] (Target/3 Turns)"
   },
   "161101": {
     "name": "アトリションバーン[VI]",
-    "shortDescription": "必ずやけど (Target/1 Turn) / DEF DOWN [VI] (Target/3 Turns)"
+    "shortDescription": "Guaranteed Burn (Target/1 Turn) / DEF DOWN [VI] (Target/3 Turns)"
   },
   "161200": {
     "name": "ネバーフォーゲット",
@@ -4904,20 +4904,20 @@
     "shortDescription": "Damage Inflicted UP [IV] / Damage After Using Charge UP [IV] / Blast Damage UP [II]"
   },
   "161400": {
-    "name": "スマイトライズ[IV]",
+    "name": "Smite Rise [IV]",
     "shortDescription": "ATK UP [IV] / Damage After Using Charge UP [IV] (Self/3 Turns)"
   },
   "161401": {
-    "name": "スマイトライズ[IV]",
+    "name": "Smite Rise [IV]",
     "shortDescription": "ATK UP [IV] / Damage After Using Charge UP [IV] (Self/3 Turns)"
   },
   "161500": {
     "name": "メディテーション・アデプト[VI]",
-    "shortDescription": "確率でスキル不可無効[VI] / MP Gain UP [III]"
+    "shortDescription": "Negate Skill Seal Chance [VI] / MP Gain DOWN UP [III]"
   },
   "161501": {
     "name": "メディテーション・アデプト[VIII]",
-    "shortDescription": "確率でスキル不可無効[VIII] / MP Gain UP [IV]"
+    "shortDescription": "Negate Skill Seal Chance [VIII] / MP Gain DOWN UP [IV]"
   },
   "161600": {
     "name": "Solid Adept [V]",
@@ -4961,11 +4961,11 @@
   },
   "162100": {
     "name": "レジストアップ・サークル[III]",
-    "shortDescription": "Status Ailment Resistance UP [III](味全/1T)"
+    "shortDescription": "Status Ailment Resistance UP [III] (Team/1 Turn)"
   },
   "162101": {
     "name": "レジストアップ・サークル[III]",
-    "shortDescription": "Status Ailment Resistance UP [III](味全/1T)"
+    "shortDescription": "Status Ailment Resistance UP [III] (Team/1 Turn)"
   },
   "162200": {
     "name": "Charming Eyes [X]",
@@ -4976,11 +4976,11 @@
     "shortDescription": "Charm [XI] (All Foes/1 Turn)"
   },
   "162300": {
-    "name": "リジェネレイト・ブラスト[IV]",
+    "name": "Regenerate Blast [IV]",
     "shortDescription": "Blast Damage UP [IV] / HP Regen [II]"
   },
   "162301": {
-    "name": "リジェネレイト・ブラスト[V]",
+    "name": "Regenerate Blast [V]",
     "shortDescription": "Blast Damage UP [V] / HP Regen [II]"
   },
   "162400": {
@@ -5064,12 +5064,12 @@
     "shortDescription": "ATK DOWN [VI] / Damage Inflicted DOWN [VI] (Target/1 Turn)"
   },
   "163400": {
-    "name": "クリア・スピリット[II]",
-    "shortDescription": "Damage Inflicted UP [II] / Accele MP UP [II] / MP Gain UP [II]"
+    "name": "Clear Spirit [II]",
+    "shortDescription": "Damage Inflicted UP [II] / Accele MP UP [II] / MP Gain DOWN UP [II]"
   },
   "163401": {
-    "name": "クリア・スピリット[III]",
-    "shortDescription": "Damage Inflicted UP [III] / Accele MP UP [III] / MP Gain UP [III]"
+    "name": "Clear Spirit [III]",
+    "shortDescription": "Damage Inflicted UP [III] / Accele MP UP [III] / MP Gain DOWN UP [III]"
   },
   "163500": {
     "name": "イミュニティステップ[VII]",
@@ -5081,11 +5081,11 @@
   },
   "163600": {
     "name": "モラールスラッシュ・ライズ[III]",
-    "shortDescription": "Damage Inflicted UP [III] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Damage Inflicted UP [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "163601": {
     "name": "モラールスラッシュ・ライズ[III]",
-    "shortDescription": "Damage Inflicted UP [III] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Damage Inflicted UP [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "163700": {
     "name": "リジェネレイト・アージェント[IV]",
@@ -5096,11 +5096,11 @@
     "shortDescription": "対魔女Damage UP [IV] / ATK UP [III] / HP Regen [II]"
   },
   "163800": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "163801": {
-    "name": "ブルーム・アデプト[IV]",
+    "name": "Bloom Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [IV]"
   },
   "163900": {
@@ -5160,19 +5160,19 @@
     "shortDescription": "Damage UP [VI] / Damage UP on Enemies with Status Ailments [VI] / Magia Damage UP [IV] (Self/1 Turn)"
   },
   "164600": {
-    "name": "アンチ・Poison [VIII]",
-    "shortDescription": "Poison Chance 無効[VIII] / ATK UP [I]"
+    "name": "Anti-Poison [VIII]",
+    "shortDescription": "Negate Poison Chance [VIII] / ATK UP [I]"
   },
   "164601": {
-    "name": "アンチ・Poison ",
-    "shortDescription": "Guaranteed Poison無効 / ATK UP [II]"
+    "name": "Anti-Poison",
+    "shortDescription": "Negate Poison / ATK UP [II]"
   },
   "164700": {
-    "name": "クウェル・ディストラクション[VI]",
+    "name": "クウェル・Distraction [VI]",
     "shortDescription": "Magia Damage DOWN [VI] / ATK DOWN [V] (All Foes/1 Turn)"
   },
   "164701": {
-    "name": "クウェル・ディストラクション[VI]",
+    "name": "クウェル・Distraction [VI]",
     "shortDescription": "Magia Damage DOWN [VI] / ATK DOWN [V] (All Foes/1 Turn)"
   },
   "164800": {
@@ -5193,51 +5193,51 @@
   },
   "165000": {
     "name": "HモラールShield Adept [IV]",
-    "shortDescription": "Reduce Damage [IV] / MP Gain UP [II] / DEF UP [II]"
+    "shortDescription": "Reduce Damage [IV] / MP Gain DOWN UP [II] / DEF UP [II]"
   },
   "165001": {
     "name": "HモラールShield Adept [V]",
-    "shortDescription": "Reduce Damage [V] / MP Gain UP [III] / DEF UP [IV]"
+    "shortDescription": "Reduce Damage [V] / MP Gain DOWN UP [III] / DEF UP [IV]"
   },
   "165100": {
-    "name": "フルスロットルアップ[III]",
+    "name": "Full Throttle Up [III]",
     "shortDescription": "Damage After Using Charge UP [III] / Accele MP UP [II]  (Self/1 Turn)"
   },
   "165101": {
-    "name": "フルスロットルアップ[IV]",
+    "name": "Full Throttle Up [IV]",
     "shortDescription": "Damage After Using Charge UP [IV] / Accele MP UP [IV]  (Self/1 Turn)"
   },
   "165200": {
-    "name": "アンチ・バーン",
+    "name": "Anti-Burn",
     "shortDescription": "Negate Burn / Blast Damage UP [V]"
   },
   "165201": {
-    "name": "アンチ・バーン",
+    "name": "Anti-Burn",
     "shortDescription": "Negate Burn / Blast Damage UP [V]"
   },
   "165300": {
-    "name": "ワールウィンド[VII]",
+    "name": "Whirlwind [VII]",
     "shortDescription": "Critical Hit Chance [VII] / Evade Chance [VI] (Self/1 Turn)"
   },
   "165301": {
-    "name": "ワールウィンド[VII]",
+    "name": "Whirlwind [VII]",
     "shortDescription": "Critical Hit Chance [VII] / Evade Chance [VI] (Self/1 Turn)"
   },
   "165400": {
     "name": "パーシストクライシス[V]",
-    "shortDescription": "ATK UP when near-fainting [V] / DEF UP when near-fainting [II] / Taunt 無視[III]"
+    "shortDescription": "ATK UP when near-fainting [V] / DEF UP when near-fainting [II] / Anti-Taunt Chance [III]"
   },
   "165401": {
     "name": "パーシストクライシス[VII]",
-    "shortDescription": "ATK UP when near-fainting [VII] / DEF UP when near-fainting [IV] / Taunt 無視[V]"
+    "shortDescription": "ATK UP when near-fainting [VII] / DEF UP when near-fainting [IV] / Anti-Taunt Chance [V]"
   },
   "165500": {
-    "name": "ウィル・アデプト[VI]",
-    "shortDescription": "Taunt 無視[VI] / ATK UP [IV]"
+    "name": "Will Adept [VI]",
+    "shortDescription": "Anti-Taunt Chance [VI] / ATK UP [IV]"
   },
   "165501": {
-    "name": "ウィル・アデプト[VIII]",
-    "shortDescription": "Taunt 無視[VIII] / ATK UP [V]"
+    "name": "Will Adept [VIII]",
+    "shortDescription": "Anti-Taunt Chance [VIII] / ATK UP [V]"
   },
   "165600": {
     "name": "インビジブル・スラッシュ[VIII]",
@@ -5249,18 +5249,18 @@
   },
   "165700": {
     "name": "モラールマギアライズ[V]",
-    "shortDescription": "Magia Damage UP [V] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Magia Damage UP [V] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "165701": {
     "name": "モラールマギアライズ[V]",
-    "shortDescription": "Magia Damage UP [V] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Magia Damage UP [V] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "165800": {
-    "name": "グロー・アデプト[III]",
+    "name": "Glow Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III] / Status Ailment Resistance UP [II]"
   },
   "165801": {
-    "name": "グロー・アデプト[IV]",
+    "name": "Glow Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [IV] / Status Ailment Resistance UP [III]"
   },
   "165900": {
@@ -5273,18 +5273,18 @@
   },
   "166000": {
     "name": "Sniping Magia [III]",
-    "shortDescription": "DEF DOWN [III] (All Foes/1 Turn) / Magia Damage UP [III](味全/1T)"
+    "shortDescription": "DEF DOWN [III] (All Foes/1 Turn) / Magia Damage UP [III] (Team/1 Turn)"
   },
   "166001": {
     "name": "Sniping Magia [VI]",
-    "shortDescription": "DEF DOWN [III] (All Foes/1 Turn) / Magia Damage UP [VI](味全/1T)"
+    "shortDescription": "DEF DOWN [III] (All Foes/1 Turn) / Magia Damage UP [VI] (Team/1 Turn)"
   },
   "166100": {
-    "name": "エスペランサ―・ストライク[V]",
+    "name": "Esperansa Strike [V]",
     "shortDescription": "Critical Hit Chance [V] / ATK UP [V] (Self/1 Turn)"
   },
   "166101": {
-    "name": "エスペランサ―・ストライク[V]",
+    "name": "Esperansa Strike [V]",
     "shortDescription": "Critical Hit Chance [V] / ATK UP [V] (Self/1 Turn)"
   },
   "166200": {
@@ -5352,11 +5352,11 @@
     "shortDescription": "Damage UP [IV] / ChargeディスクダメージUP[III]"
   },
   "167000": {
-    "name": "ブルーム・アデプト[II]",
+    "name": "Bloom Adept [II]",
     "shortDescription": "ATK UP [II] / DEF UP [II]"
   },
   "167001": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [II] / Evade Chance [I]"
   },
   "167100": {
@@ -5368,12 +5368,12 @@
     "shortDescription": "Damage Inflicted DOWN [VII] (Target/3 Turns) / DEF UP [IV] (Self/3 Turns)"
   },
   "167200": {
-    "name": "Magia UP ・サークル[III]",
-    "shortDescription": "Magia Damage UP [III](味全/1T)"
+    "name": "Magia UP Circle [III]",
+    "shortDescription": "Magia Damage UP [III] (Team/1 Turn)"
   },
   "167201": {
-    "name": "Magia UP ・サークル[V]",
-    "shortDescription": "Magia Damage UP [V](味全/1T)"
+    "name": "Magia UP Circle [V]",
+    "shortDescription": "Magia Damage UP [V] (Team/1 Turn)"
   },
   "167300": {
     "name": "ドッペル・アップ[V]",
@@ -5384,12 +5384,12 @@
     "shortDescription": "Magia Damage UP [VII] / ドッペルダメージUP[VI] (Self/1 Turn)"
   },
   "167400": {
-    "name": "アンチ・Poison [VII]",
-    "shortDescription": "Poison Chance 無効[VII] / DEF UP [II]"
+    "name": "Anti-Poison [VII]",
+    "shortDescription": "Negate Poison Chance [VII] / DEF UP [II]"
   },
   "167401": {
-    "name": "アンチ・Poison ",
-    "shortDescription": "Guaranteed Poison無効 / DEF UP [III]"
+    "name": "Anti-Poison",
+    "shortDescription": "Negate Poison / DEF UP [III]"
   },
   "167500": {
     "name": "Astral Adept [V]",
@@ -5400,11 +5400,11 @@
     "shortDescription": "Magia Damage UP [V] / Accele MP UP [IV]"
   },
   "167600": {
-    "name": "アサルトブレイク[II]",
+    "name": "Assault Break [II]",
     "shortDescription": "ATK DOWN [II] / Damage Inflicted DOWN [II] (Target/3 Turns)"
   },
   "167601": {
-    "name": "アサルトブレイク[II]",
+    "name": "Assault Break [II]",
     "shortDescription": "ATK DOWN [II] / Damage Inflicted DOWN [II] (Target/3 Turns)"
   },
   "167700": {
@@ -5433,11 +5433,11 @@
   },
   "168000": {
     "name": "Glitter Adept [III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [II]"
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [II]"
   },
   "168001": {
     "name": "Glitter Adept [IV]",
-    "shortDescription": "ATK UP [IV] / MP Gain UP [III]"
+    "shortDescription": "ATK UP [IV] / MP Gain DOWN UP [III]"
   },
   "168100": {
     "name": "スナイピングアタック[IV]",
@@ -5449,11 +5449,11 @@
   },
   "168200": {
     "name": "キュア[II]",
-    "shortDescription": "Remove Debuffs / Heal [II](Self)"
+    "shortDescription": "Remove Debuffs / Heal [II] (Self)"
   },
   "168201": {
     "name": "キュア[III]",
-    "shortDescription": "Remove Debuffs / Heal [III](Self)"
+    "shortDescription": "Remove Debuffs / Heal [III] (Self)"
   },
   "168300": {
     "name": "スラッシュ・アーマメント[II]",
@@ -5464,11 +5464,11 @@
     "shortDescription": "Damage Inflicted UP [III] / Reduce Damage [III]"
   },
   "168400": {
-    "name": "アンチ・メズマライズ",
+    "name": "Anti-Mesmerize",
     "shortDescription": "Negate Bewitch / Blast Damage UP [III] "
   },
   "168401": {
-    "name": "アンチ・メズマライズ",
+    "name": "Anti-Mesmerize",
     "shortDescription": "Negate Bewitch / Blast Damage UP [IV]"
   },
   "168500": {
@@ -5529,7 +5529,7 @@
   },
   "169200": {
     "name": "Anti-Bind[X]",
-    "shortDescription": "確率で拘束無効[X] / ATK UP [IV]"
+    "shortDescription": "Negate Bind Chance [X] / ATK UP [IV]"
   },
   "169201": {
     "name": "Anti-Bind",
@@ -5584,44 +5584,44 @@
     "shortDescription": "Damage Inflicted UP [III] / Follow Up Attack Chance [IV]"
   },
   "169900": {
-    "name": "チャージライズ・エンハンス[V]",
+    "name": "Charge Master ・エンハンス[V]",
     "shortDescription": "Damage UP [V] / Damage After Using Charge UP [IV]  (Self/1 Turn)"
   },
   "169901": {
-    "name": "チャージライズ・エンハンス[V]",
+    "name": "Charge Master ・エンハンス[V]",
     "shortDescription": "Damage UP [V] / Damage After Using Charge UP [IV]  (Self/1 Turn)"
   },
   "170000": {
     "name": "魔法少女になれる気がしたの",
-    "shortDescription": "状態異常を1回無効(味全/3T) / Remove Status Ailments (味全)"
+    "shortDescription": "状態異常を1回無効 (Team/3 Turns) / Remove Status Ailments (味全)"
   },
   "170001": {
     "name": "魔法少女になれる気がしたの",
-    "shortDescription": "状態異常を1回無効(味全/3T) / Remove Status Ailments (味全)"
+    "shortDescription": "状態異常を1回無効 (Team/3 Turns) / Remove Status Ailments (味全)"
   },
   "170100": {
     "name": "モラールWeapon Adept [III]",
-    "shortDescription": "Damage UP [III] / MP Gain UP [II]"
+    "shortDescription": "Damage UP [III] / MP Gain DOWN UP [II]"
   },
   "170101": {
     "name": "モラールWeapon Adept [IV]",
-    "shortDescription": "Damage UP [IV] / MP Gain UP [III]"
+    "shortDescription": "Damage UP [IV] / MP Gain DOWN UP [III]"
   },
   "170200": {
-    "name": "ショーテル・アデプト[V] ",
-    "shortDescription": "確率でダメージカット無視[V] / ATK UP [IV]"
+    "name": "Shotel Adept [V] ",
+    "shortDescription": "Chance to Ignore Reduce Damage [V] / ATK UP [IV]"
   },
   "170201": {
-    "name": "ショーテル・アデプト[VII]",
-    "shortDescription": "確率でダメージカット無視[VII] / ATK UP [V]"
+    "name": "Shotel Adept [VII]",
+    "shortDescription": "Chance to Ignore Reduce Damage [VII] / ATK UP [V]"
   },
   "170300": {
     "name": "ダークネス・アデプト[I]",
-    "shortDescription": "攻撃時にBlind Chance  (1 Turn) Chance upon Attack [I] / ATK UP [II]"
+    "shortDescription": "攻撃時にBlind Chance (1 Turn) Chance upon Attack [I] / ATK UP [II]"
   },
   "170301": {
     "name": "ダークネス・アデプト[II]",
-    "shortDescription": "攻撃時にBlind Chance  (1 Turn) Chance upon Attack [II] / ATK UP [III]"
+    "shortDescription": "攻撃時にBlind Chance (1 Turn) Chance upon Attack [II] / ATK UP [III]"
   },
   "170400": {
     "name": "ジャマー・アデプト[V]",
@@ -5689,11 +5689,11 @@
   },
   "171200": {
     "name": "ノーブル・スピリット[III]",
-    "shortDescription": "Accele MP UP [III] / MP Gain UP [II] / DEF UP [III]"
+    "shortDescription": "Accele MP UP [III] / MP Gain DOWN UP [II] / DEF UP [III]"
   },
   "171201": {
     "name": "ノーブル・スピリット[IV]",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [III] / DEF UP [IV]"
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [III] / DEF UP [IV]"
   },
   "171300": {
     "name": "アサルト・ライズ[VII]",
@@ -5704,27 +5704,27 @@
     "shortDescription": "ATK UP [VIII] / Blast Damage UP [V] (Self/1 Turn)"
   },
   "171400": {
-    "name": "フルスウィングライズ[VII]",
+    "name": "Full Swing Master [VII]",
     "shortDescription": "Damage After Using Charge UP [VII] / Blast Damage UP [IV] (Self/1 Turn)"
   },
   "171401": {
-    "name": "フルスウィングライズ[VII]",
+    "name": "Full Swing Master [VII]",
     "shortDescription": "Damage After Using Charge UP [VII] / Blast Damage UP [IV] (Self/1 Turn)"
   },
   "171500": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "171501": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "171600": {
-    "name": "エピソードブルーム・アデプト[III]",
+    "name": "エピソードBloom Adept [III]",
     "shortDescription": "Increases Episode Points Earned [III] / ATK UP [I] / DEF UP [I]"
   },
   "171601": {
-    "name": "エピソードブルーム・アデプト[III]",
+    "name": "エピソードBloom Adept [III]",
     "shortDescription": "Increases Episode Points Earned [III] / ATK UP [I] / DEF UP [I]"
   },
   "171700": {
@@ -5769,11 +5769,11 @@
   },
   "172200": {
     "name": "ノーブル・スピリット[II]",
-    "shortDescription": "Accele MP UP [II] / MP Gain UP [I] / DEF UP [I]"
+    "shortDescription": "Accele MP UP [II] / MP Gain DOWN UP [I] / DEF UP [I]"
   },
   "172201": {
     "name": "ノーブル・スピリット[II]",
-    "shortDescription": "Accele MP UP [II] / MP Gain UP [II] / DEF UP [II]"
+    "shortDescription": "Accele MP UP [II] / MP Gain DOWN UP [II] / DEF UP [II]"
   },
   "172300": {
     "name": "マターナル・アデプト[II]",
@@ -5840,19 +5840,19 @@
     "shortDescription": "ATK UP [III] / DEF UP [III] / Critical Hit Chance [III] (Self/3 Turns)"
   },
   "173100": {
-    "name": "フォーギブネス[III]",
-    "shortDescription": "HP Regen [III] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Forgiveness [III]",
+    "shortDescription": "HP Regen [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "173101": {
-    "name": "フォーギブネス[III]",
-    "shortDescription": "HP Regen [III] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Forgiveness [III]",
+    "shortDescription": "HP Regen [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "173200": {
-    "name": "グラムイミュニティ[II]",
+    "name": "Glam Immunity [II]",
     "shortDescription": "Accele MP UP [II] / Status Ailment Resistance UP [III]"
   },
   "173201": {
-    "name": "グラムイミュニティ[II]",
+    "name": "Glam Immunity [II]",
     "shortDescription": "Accele MP UP [II] / Status Ailment Resistance UP [III]"
   },
   "173300": {
@@ -5873,11 +5873,11 @@
   },
   "173500": {
     "name": "ブルーム・Curseエッジ[III]",
-    "shortDescription": "ATK UP [III] / DEF UP [III] / 攻撃時に確率で呪い (1 Turn) Chance upon Attack [II]"
+    "shortDescription": "ATK UP [III] / DEF UP [III] / Curse (1 Turn) Chance upon Attack [II]"
   },
   "173501": {
     "name": "ブルーム・Curseエッジ[IV]",
-    "shortDescription": "ATK UP [IV] / DEF UP [IV] / 攻撃時に確率で呪い (1 Turn) Chance upon Attack [III]"
+    "shortDescription": "ATK UP [IV] / DEF UP [IV] / Curse (1 Turn) Chance upon Attack [III]"
   },
   "173600": {
     "name": "Hシールド・ライズ[III]",
@@ -5896,11 +5896,11 @@
     "shortDescription": "HP Regen [XV] / Skill Surge (Self/1 Turn)"
   },
   "173800": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [III] / ATK UP [III]"
   },
   "173801": {
-    "name": "バイタルAttack Adept [III]",
+    "name": "Vital Attack Adept [III]",
     "shortDescription": "HP Regen [III] / ATK UP [III]"
   },
   "173900": {
@@ -5913,26 +5913,26 @@
   },
   "174000": {
     "name": "マナチャージ・サークル[I]",
-    "shortDescription": "MP回復[I](味全)"
+    "shortDescription": "MP Restore [I](味全)"
   },
   "174001": {
     "name": "マナチャージ・サークル[II]",
-    "shortDescription": "MP回復[II](味全)"
+    "shortDescription": "MP Restore [II](味全)"
   },
   "174100": {
     "name": "インテリジェンス・ライズ[IV] ",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [II] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "174101": {
     "name": "インテリジェンス・ライズ[V] ",
-    "shortDescription": "Accele MP UP [V] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [V] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "174200": {
-    "name": "レジストブレイク[II]",
+    "name": "Resist Break [II]",
     "shortDescription": "Status Ailment Resistance DOWN [II] (Target/3 Turns)"
   },
   "174201": {
-    "name": "レジストブレイク[III]",
+    "name": "Resist Break [III]",
     "shortDescription": "Status Ailment Resistance DOWN [III] (Target/3 Turns)"
   },
   "174300": {
@@ -5953,11 +5953,11 @@
   },
   "174500": {
     "name": "ニートネス・オーラ[III]",
-    "shortDescription": "HP Regen [III] / Status Ailment Resistance UP [III](味全/3T)"
+    "shortDescription": "HP Regen [III] / Status Ailment Resistance UP [III] (Team/3 Turns)"
   },
   "174501": {
     "name": "ニートネス・オーラ[III]",
-    "shortDescription": "HP Regen [III] / Status Ailment Resistance UP [III](味全/3T)"
+    "shortDescription": "HP Regen [III] / Status Ailment Resistance UP [III] (Team/3 Turns)"
   },
   "174600": {
     "name": "All Disc Adept [IV]",
@@ -5985,11 +5985,11 @@
   },
   "174900": {
     "name": "【緊急配信】星４出します",
-    "shortDescription": "Damage UP [V] / ATK UP [V] / 必ずやけど (Self/1 Turn)"
+    "shortDescription": "Damage UP [V] / ATK UP [V] / Guaranteed Burn (Self/1 Turn)"
   },
   "174901": {
     "name": "【緊急配信】星４出します",
-    "shortDescription": "Damage UP [V] / ATK UP [V] / 必ずやけど (Self/1 Turn)"
+    "shortDescription": "Damage UP [V] / ATK UP [V] / Guaranteed Burn (Self/1 Turn)"
   },
   "175000": {
     "name": "史上最強のメモリア（自称）",
@@ -6008,11 +6008,11 @@
     "shortDescription": "Start Battle with 15% of Magia Gauge Filled / Accele MP UP [V]"
   },
   "175200": {
-    "name": "Uplift ・アデプト[V]",
+    "name": "Uplift Adept [V]",
     "shortDescription": "ATK UP [V] / Status Ailment Resistance UP [I]"
   },
   "175201": {
-    "name": "Uplift ・アデプト[VI]",
+    "name": "Uplift Adept [VI]",
     "shortDescription": "ATK UP [VI] / Status Ailment Resistance UP [II]"
   },
   "175300": {
@@ -6049,18 +6049,18 @@
   },
   "175700": {
     "name": "アトリションFog [IV]",
-    "shortDescription": "必ず霧 / DEF DOWN [IV] (Target/1 Turn)"
+    "shortDescription": "Guaranteed Fog / DEF DOWN [IV] (Target/1 Turn)"
   },
   "175701": {
     "name": "アトリションFog [V]",
-    "shortDescription": "必ず霧 / DEF DOWN [V] (Target/1 Turn)"
+    "shortDescription": "Guaranteed Fog / DEF DOWN [V] (Target/1 Turn)"
   },
   "175800": {
-    "name": "グラムイミュニティライズ[IV]",
+    "name": "Glam Immunity Master [IV]",
     "shortDescription": "Accele MP UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "175801": {
-    "name": "グラムイミュニティライズ[IV]",
+    "name": "Glam Immunity Master [IV]",
     "shortDescription": "Accele MP UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "175900": {
@@ -6105,11 +6105,11 @@
   },
   "176400": {
     "name": "モラールイミュニティライズ[III]",
-    "shortDescription": "MP Gain UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "176401": {
     "name": "モラールイミュニティライズ[III]",
-    "shortDescription": "MP Gain UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "176500": {
     "name": "Quick Mana UP",
@@ -6145,23 +6145,23 @@
   },
   "176900": {
     "name": "インテリジェンス・ライズ[IV] ",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [II] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "176901": {
     "name": "インテリジェンス・ライズ[V] ",
-    "shortDescription": "Accele MP UP [V] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [V] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "177000": {
     "name": "ブレイブ・スピリット[III]",
-    "shortDescription": "Accele MP UP [III] / MP Gain UP [II] / ATK UP [III]"
+    "shortDescription": "Accele MP UP [III] / MP Gain DOWN UP [II] / ATK UP [III]"
   },
   "177001": {
     "name": "ブレイブ・スピリット[IV]",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [III] / ATK UP [IV]"
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [III] / ATK UP [IV]"
   },
   "177100": {
     "name": "Anti-Bind[X]",
-    "shortDescription": "Accele MP UP [III] / 確率で拘束無効[X]"
+    "shortDescription": "Accele MP UP [III] / Negate Bind Chance [X]"
   },
   "177101": {
     "name": "Anti-Bind",
@@ -6225,11 +6225,11 @@
   },
   "177900": {
     "name": "誰も知らない、私たちの記録",
-    "shortDescription": "MP Gain UP [IV] / Reduce Damage [III] / HP Regen [III]"
+    "shortDescription": "MP Gain DOWN UP [IV] / Reduce Damage [III] / HP Regen [III]"
   },
   "177901": {
     "name": "誰も知らない、私たちの記録",
-    "shortDescription": "MP Gain UP [IV] / Reduce Damage [III] / HP Regen [III]"
+    "shortDescription": "MP Gain DOWN UP [IV] / Reduce Damage [III] / HP Regen [III]"
   },
   "178000": {
     "name": "浅き夢の暁",
@@ -6265,11 +6265,11 @@
   },
   "178400": {
     "name": "リジェネレイト・Refresh",
-    "shortDescription": "Remove Status Ailments (味全) / HP Regen [II](味全/3T)"
+    "shortDescription": "Remove Status Ailments (味全) / HP Regen [II] (Team/3 Turns)"
   },
   "178401": {
     "name": "リジェネレイト・Refresh",
-    "shortDescription": "Remove Status Ailments (味全) / HP Regen [II](味全/3T)"
+    "shortDescription": "Remove Status Ailments (味全) / HP Regen [II] (Team/3 Turns)"
   },
   "178500": {
     "name": "Astral Adept [III] ",
@@ -6296,20 +6296,20 @@
     "shortDescription": "Blast Damage UP [V] / Accele MP UP [V] (Self/1 Turn)"
   },
   "178800": {
-    "name": "エリミネイトアップ[V]",
+    "name": "Eliminate Up [V]",
     "shortDescription": "Blast Damage UP [V] / Magia Damage UP [V] (Self/3 Turns)"
   },
   "178801": {
-    "name": "エリミネイトアップ[VI]",
+    "name": "Eliminate Up [VI]",
     "shortDescription": "Blast Damage UP [VI] / Magia Damage UP [VI] (Self/3 Turns)"
   },
   "178900": {
     "name": "モラールShield Adept [V]",
-    "shortDescription": "Reduce Damage [V] / MP Gain UP [III]"
+    "shortDescription": "Reduce Damage [V] / MP Gain DOWN UP [III]"
   },
   "178901": {
     "name": "モラールShield Adept [VI]",
-    "shortDescription": "Reduce Damage [VI] / MP Gain UP [IV]"
+    "shortDescription": "Reduce Damage [VI] / MP Gain DOWN UP [IV]"
   },
   "179000": {
     "name": "リジェネレイト・ガード[II]",
@@ -6417,27 +6417,27 @@
   },
   "180300": {
     "name": "モラールマギアライズ[VI]",
-    "shortDescription": "Magia Damage UP [VI] / MP Gain UP [IV] (Self/3 Turns)"
+    "shortDescription": "Magia Damage UP [VI] / MP Gain DOWN UP [IV] (Self/3 Turns)"
   },
   "180301": {
     "name": "モラールマギアライズ[VII]",
-    "shortDescription": "Magia Damage UP [VII] / MP Gain UP [V] (Self/3 Turns)"
+    "shortDescription": "Magia Damage UP [VII] / MP Gain DOWN UP [V] (Self/3 Turns)"
   },
   "180400": {
-    "name": "ハートウォーム・アデプト[III]",
+    "name": "Heartwarm Adept [III]",
     "shortDescription": "Increases Episode Points Earned [III] / HP Regen [III]"
   },
   "180401": {
-    "name": "ハートウォーム・アデプト[III]",
+    "name": "Heartwarm Adept [III]",
     "shortDescription": "Increases Episode Points Earned [III] / HP Regen [III]"
   },
   "180500": {
     "name": "モラール・ブレイク[VII]",
-    "shortDescription": "MP獲得量 DOWN[VII] (Target/3 Turns)"
+    "shortDescription": "MP Gain DOWN DOWN [VII] (Target/3 Turns)"
   },
   "180501": {
     "name": "モラール・ブレイク[VII]",
-    "shortDescription": "MP獲得量 DOWN[VII] (Target/3 Turns)"
+    "shortDescription": "MP Gain DOWN DOWN [VII] (Target/3 Turns)"
   },
   "180600": {
     "name": "イグノア・メズマライズ[II]",
@@ -6457,11 +6457,11 @@
   },
   "180800": {
     "name": "ブレイクソウル[VI]",
-    "shortDescription": "Taunt 無視[VI] / 確率でダメージカット無視[VI]"
+    "shortDescription": "Anti-Taunt Chance [VI] / Chance to Ignore Reduce Damage [VI]"
   },
   "180801": {
     "name": "ブレイクソウル[VIII]",
-    "shortDescription": "Taunt 無視[VIII] / 確率でダメージカット無視[VIII]"
+    "shortDescription": "Anti-Taunt Chance [VIII] / Chance to Ignore Reduce Damage [VIII]"
   },
   "180900": {
     "name": "Penetrateライジング[II]",
@@ -6488,20 +6488,20 @@
     "shortDescription": "DEF DOWN [II] / さらにDEF DOWN [III] (Target/1 Turn)"
   },
   "181200": {
-    "name": "ブルーム・アデプト[V]",
+    "name": "Bloom Adept [V]",
     "shortDescription": "ATK UP [V] / DEF UP [V]"
   },
   "181201": {
-    "name": "ブルーム・アデプト[V]",
+    "name": "Bloom Adept [V]",
     "shortDescription": "ATK UP [V] / DEF UP [V]"
   },
   "181300": {
     "name": "HCure Heal [III]",
-    "shortDescription": "Heal [III](Self) / DEF UP [V] (Self/3 Turns)"
+    "shortDescription": "Heal [III] (Self) / DEF UP [V] (Self/3 Turns)"
   },
   "181301": {
     "name": "HCure Heal [III]",
-    "shortDescription": "Heal [III](Self) / DEF UP [V] (Self/3 Turns)"
+    "shortDescription": "Heal [III] (Self) / DEF UP [V] (Self/3 Turns)"
   },
   "181400": {
     "name": "デスペレイト・アタック[V]",
@@ -6553,11 +6553,11 @@
   },
   "182000": {
     "name": "Fog ・ダウン[VI]",
-    "shortDescription": "必ず霧 / ATK DOWN [VI] (Target/1 Turn)"
+    "shortDescription": "Guaranteed Fog / ATK DOWN [VI] (Target/1 Turn)"
   },
   "182001": {
     "name": "Fog ・ダウン[VII]",
-    "shortDescription": "必ず霧 / ATK DOWN [VII] (Target/1 Turn)"
+    "shortDescription": "Guaranteed Fog / ATK DOWN [VII] (Target/1 Turn)"
   },
   "182100": {
     "name": "Disk Shuffle",
@@ -6576,20 +6576,20 @@
     "shortDescription": "ATK DOWN [VII] (All Foes/1 Turn)"
   },
   "182300": {
-    "name": "ディリジェンス・アデプト[V]",
-    "shortDescription": "DEF UP [V] / MP Gain UP [III]"
+    "name": "Diligence Adept [V]",
+    "shortDescription": "DEF UP [V] / MP Gain DOWN UP [III]"
   },
   "182301": {
-    "name": "ディリジェンス・アデプト[VI]",
-    "shortDescription": "DEF UP [VI] / MP Gain UP [IV]"
+    "name": "Diligence Adept [VI]",
+    "shortDescription": "DEF UP [VI] / MP Gain DOWN UP [IV]"
   },
   "182400": {
     "name": "エンジェルボイス[V]",
-    "shortDescription": "Heal [V](味全) / Status Ailment Resistance UP [III](味全/3T)"
+    "shortDescription": "Heal [V](味全) / Status Ailment Resistance UP [III] (Team/3 Turns)"
   },
   "182401": {
     "name": "エンジェルボイス[V]",
-    "shortDescription": "Heal [V](味全) / Status Ailment Resistance UP [III](味全/3T)"
+    "shortDescription": "Heal [V](味全) / Status Ailment Resistance UP [III] (Team/3 Turns)"
   },
   "182500": {
     "name": "リジェネレイトブルーム[III]",
@@ -6641,11 +6641,11 @@
   },
   "183100": {
     "name": "パーシスト・アデプト[III]",
-    "shortDescription": "Damage Inflicted UP [III] / Taunt 無視[VI]"
+    "shortDescription": "Damage Inflicted UP [III] / Anti-Taunt Chance [VI]"
   },
   "183101": {
     "name": "パーシスト・アデプト[III]",
-    "shortDescription": "Damage Inflicted UP [III] / Taunt 無視[VI]"
+    "shortDescription": "Damage Inflicted UP [III] / Anti-Taunt Chance [VI]"
   },
   "183200": {
     "name": "Poison ・ゲイズ[IV]",
@@ -6657,19 +6657,19 @@
   },
   "183300": {
     "name": "フレイムアサルト・オーラ[II] ",
-    "shortDescription": "火属性ATK UP [II] / Blast Damage UP [I](味全/3T)"
+    "shortDescription": "火属性ATK UP [II] / Blast Damage UP [I] (Team/3 Turns)"
   },
   "183301": {
     "name": "フレイムアサルト・オーラ[III]",
-    "shortDescription": "火属性ATK UP [III] / Blast Damage UP [I](味全/3T)"
+    "shortDescription": "火属性ATK UP [III] / Blast Damage UP [I] (Team/3 Turns)"
   },
   "183400": {
     "name": "バーン・マギア[VI]",
-    "shortDescription": "必ずやけど (Target/1 Turn) / Magia Damage UP [VI] (Self/1 Turn)"
+    "shortDescription": "Guaranteed Burn (Target/1 Turn) / Magia Damage UP [VI] (Self/1 Turn)"
   },
   "183401": {
     "name": "バーン・マギア[VII]",
-    "shortDescription": "必ずやけど (Target/1 Turn) / Magia Damage UP [VII] (Self/1 Turn)"
+    "shortDescription": "Guaranteed Burn (Target/1 Turn) / Magia Damage UP [VII] (Self/1 Turn)"
   },
   "183500": {
     "name": "High-End Dreamer [II]",
@@ -6705,11 +6705,11 @@
   },
   "183900": {
     "name": "Glitter Adept [IV]",
-    "shortDescription": "ATK UP [IV] / MP Gain UP [III]"
+    "shortDescription": "ATK UP [IV] / MP Gain DOWN UP [III]"
   },
   "183901": {
     "name": "Glitter Adept [V]",
-    "shortDescription": "ATK UP [V] / MP Gain UP [IV]"
+    "shortDescription": "ATK UP [V] / MP Gain DOWN UP [IV]"
   },
   "184000": {
     "name": "インビジブル・アタック[II]",
@@ -6753,11 +6753,11 @@
   },
   "184500": {
     "name": "モラールマギア[IX]",
-    "shortDescription": "Magia Damage UP [IX] / MP Gain UP [IX] (Self/1 Turn)"
+    "shortDescription": "Magia Damage UP [IX] / MP Gain DOWN UP [IX] (Self/1 Turn)"
   },
   "184501": {
     "name": "モラールマギア[X]",
-    "shortDescription": "Magia Damage UP [X] / MP Gain UP [X] (Self/1 Turn)"
+    "shortDescription": "Magia Damage UP [X] / MP Gain DOWN UP [X] (Self/1 Turn)"
   },
   "184600": {
     "name": "エンハンス・ブルーム[III]",
@@ -6776,12 +6776,12 @@
     "shortDescription": "Negate Curse / Negate Blind / Blast Damage UP [II]"
   },
   "184800": {
-    "name": "無病息災",
-    "shortDescription": "Guaranteed Poison無効 / Negate Burn / Negate Bewitch"
+    "name": "Perfect Health",
+    "shortDescription": "Negate Poison / Negate Burn / Negate Bewitch"
   },
   "184801": {
-    "name": "無病息災",
-    "shortDescription": "Guaranteed Poison無効 / Negate Burn / Negate Bewitch"
+    "name": "Perfect Health",
+    "shortDescription": "Negate Poison / Negate Burn / Negate Bewitch"
   },
   "184900": {
     "name": "Full Burst [IX]",
@@ -6824,11 +6824,11 @@
     "shortDescription": "Magia Damage UP [VII] / ドッペルダメージUP[VII] / 水属性ATK UP [XI] (Self/1 Turn)"
   },
   "185400": {
-    "name": "Inevitable ・アデプト[II]",
+    "name": "Inevitable Adept [II]",
     "shortDescription": "Critical Hit Chance [II] / Negate Evade Chance [VII]"
   },
   "185401": {
-    "name": "Inevitable ・アデプト[III]",
+    "name": "Inevitable Adept [III]",
     "shortDescription": "Critical Hit Chance [III] / Negate Evade Chance [VIII]"
   },
   "185500": {
@@ -6840,11 +6840,11 @@
     "shortDescription": "Damage After Using Charge UP [VII] / Blast Damage UP [IV]"
   },
   "185600": {
-    "name": "Fフルスウィングライズ[V]",
+    "name": "FFull Swing Master [V]",
     "shortDescription": "Damage After Using Charge UP [V] / Blast Damage UP [V] / 火属性ATK UP [VI] (Self/3 Turns)"
   },
   "185601": {
-    "name": "Fフルスウィングライズ[VI]",
+    "name": "FFull Swing Master [VI]",
     "shortDescription": "Damage After Using Charge UP [VI] / Blast Damage UP [VI] / 火属性ATK UP [VII] (Self/3 Turns)"
   },
   "185700": {
@@ -6864,20 +6864,20 @@
     "shortDescription": "Guaranteed Guard for Ally (1 Turn)"
   },
   "185900": {
-    "name": "ナローシールド[IV]",
+    "name": "Narrow Shield [IV]",
     "shortDescription": "ATK UP when near-fainting [IV] / DEF UP when near-fainting [III] / Reduce Damage [III]"
   },
   "185901": {
-    "name": "ナローシールド[IV]",
+    "name": "Narrow Shield [IV]",
     "shortDescription": "ATK UP when near-fainting [IV] / DEF UP when near-fainting [III] / Reduce Damage [III]"
   },
   "186000": {
     "name": "モラールShield Adept [IV]",
-    "shortDescription": "Reduce Damage [IV] / MP Gain UP [II]"
+    "shortDescription": "Reduce Damage [IV] / MP Gain DOWN UP [II]"
   },
   "186001": {
     "name": "モラールShield Adept [V]",
-    "shortDescription": "Reduce Damage [V] / MP Gain UP [III]"
+    "shortDescription": "Reduce Damage [V] / MP Gain DOWN UP [III]"
   },
   "186100": {
     "name": "フルゲージ・ヒールシールド[IV]",
@@ -6913,11 +6913,11 @@
   },
   "186500": {
     "name": "Morale UP ・サークル[I]",
-    "shortDescription": "MP Gain UP [I](味全/3T)"
+    "shortDescription": "MP Gain DOWN UP [I] (Team/3 Turns)"
   },
   "186501": {
     "name": "Morale UP ・サークル[II]",
-    "shortDescription": "MP Gain UP [II](味全/3T)"
+    "shortDescription": "MP Gain DOWN UP [II] (Team/3 Turns)"
   },
   "186600": {
     "name": "Full Gauge Overdrive [V]",
@@ -6929,11 +6929,11 @@
   },
   "186700": {
     "name": "HCure Heal [III]",
-    "shortDescription": "Heal [III](Self) / DEF UP [V] (Self/3 Turns)"
+    "shortDescription": "Heal [III] (Self) / DEF UP [V] (Self/3 Turns)"
   },
   "186701": {
     "name": "HCure Heal [III]",
-    "shortDescription": "Heal [III](Self) / DEF UP [V] (Self/3 Turns)"
+    "shortDescription": "Heal [III] (Self) / DEF UP [V] (Self/3 Turns)"
   },
   "186800": {
     "name": "Solid Adept [IV]",
@@ -6961,11 +6961,11 @@
   },
   "187100": {
     "name": "Dドッペル・アップ[VI]",
-    "shortDescription": "Magia Damage UP [VI] / ドッペルダメージUP[VI] / 闇属性ATK UP [X] (Self/1 Turn)"
+    "shortDescription": "Magia Damage UP [VI] / ドッペルダメージUP[VI] / Dark ATK UP [X] (Self/1 Turn)"
   },
   "187101": {
     "name": "Dドッペル・アップ[VII]",
-    "shortDescription": "Magia Damage UP [VII] / ドッペルダメージUP[VII] / 闇属性ATK UP [XI] (Self/1 Turn)"
+    "shortDescription": "Magia Damage UP [VII] / ドッペルダメージUP[VII] / Dark ATK UP [XI] (Self/1 Turn)"
   },
   "187200": {
     "name": "Berserk Adept [IV]",
@@ -6992,11 +6992,11 @@
     "shortDescription": "Bewitch Chance [V] (All Foes/1 Turn)"
   },
   "187500": {
-    "name": "アクアブルーム・アデプト[V]",
+    "name": "アクアBloom Adept [V]",
     "shortDescription": "水属性ATK UP [V] / DEF UP [III]"
   },
   "187501": {
-    "name": "アクアブルーム・アデプト[V]",
+    "name": "アクアBloom Adept [V]",
     "shortDescription": "水属性ATK UP [V] / DEF UP [III]"
   },
   "187600": {
@@ -7008,11 +7008,11 @@
     "shortDescription": "火属性ATK UP [III] / Blast Damage UP [II]"
   },
   "187700": {
-    "name": "クウェル・ディストラクション[IX]",
+    "name": "クウェル・Distraction [IX]",
     "shortDescription": "Magia Damage DOWN [IX] / ATK DOWN [IV] (All Foes/1 Turn)"
   },
   "187701": {
-    "name": "クウェル・ディストラクション[X]",
+    "name": "クウェル・Distraction [X]",
     "shortDescription": "Magia Damage DOWN [X] / ATK DOWN [V] (All Foes/1 Turn)"
   },
   "187800": {
@@ -7024,11 +7024,11 @@
     "shortDescription": "Blast Damage UP [VI] / Status Ailment Resistance UP [III]"
   },
   "187900": {
-    "name": "ブルーム・アデプト[IV]",
+    "name": "Bloom Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [IV]"
   },
   "187901": {
-    "name": "ブルーム・アデプト[IV]",
+    "name": "Bloom Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [IV]"
   },
   "188000": {
@@ -7105,19 +7105,19 @@
   },
   "188900": {
     "name": "フレイムGlitter Adept [V]",
-    "shortDescription": "Magia Damage UP [V] / MP Gain UP [III] / 火属性ATK UP [IV]"
+    "shortDescription": "Magia Damage UP [V] / MP Gain DOWN UP [III] / 火属性ATK UP [IV]"
   },
   "188901": {
     "name": "フレイムGlitter Adept [VI]",
-    "shortDescription": "Magia Damage UP [VI] / MP Gain UP [IV] / 火属性ATK UP [V]"
+    "shortDescription": "Magia Damage UP [VI] / MP Gain DOWN UP [IV] / 火属性ATK UP [V]"
   },
   "189000": {
-    "name": "グリッターライズ[II]",
-    "shortDescription": "ATK UP [II] / MP Gain UP [II] (Self/3 Turns)"
+    "name": "Glitterize [II]",
+    "shortDescription": "ATK UP [II] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "189001": {
-    "name": "グリッターライズ[III]",
-    "shortDescription": "ATK UP [III] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Glitterize [III]",
+    "shortDescription": "ATK UP [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "189100": {
     "name": "Full Burst ・アデプト[IV]",
@@ -7137,11 +7137,11 @@
   },
   "189300": {
     "name": "ダークスラスト・アデプト[V]",
-    "shortDescription": "闇属性ATK UP [V] / Accele MP UP [IV]"
+    "shortDescription": "Dark ATK UP [V] / Accele MP UP [IV]"
   },
   "189301": {
     "name": "ダークスラスト・アデプト[V]",
-    "shortDescription": "闇属性ATK UP [V] / Accele MP UP [IV]"
+    "shortDescription": "Dark ATK UP [V] / Accele MP UP [IV]"
   },
   "189400": {
     "name": "チェイス・ブレイド[III]",
@@ -7225,11 +7225,11 @@
   },
   "190400": {
     "name": "マナチャージ・サークル[I]",
-    "shortDescription": "MP回復[I](味全)"
+    "shortDescription": "MP Restore [I](味全)"
   },
   "190401": {
     "name": "マナチャージ・サークル[II]",
-    "shortDescription": "MP回復[II](味全)"
+    "shortDescription": "MP Restore [II](味全)"
   },
   "190500": {
     "name": "オーバーライズ・アデプト[IV]",
@@ -7249,19 +7249,19 @@
   },
   "190700": {
     "name": "HマギアShield Adept [V]",
-    "shortDescription": "マギアReduce Damage [V] / DEF UP [II]"
+    "shortDescription": "Reduce Magia Damage [V] / DEF UP [II]"
   },
   "190701": {
     "name": "HマギアShield Adept [V]",
-    "shortDescription": "マギアReduce Damage [V] / DEF UP [II]"
+    "shortDescription": "Reduce Magia Damage [V] / DEF UP [II]"
   },
   "190800": {
     "name": "モラールイミュニティライズ[III]",
-    "shortDescription": "MP Gain UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "190801": {
     "name": "モラールイミュニティライズ[III]",
-    "shortDescription": "MP Gain UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
+    "shortDescription": "MP Gain DOWN UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "190900": {
     "name": "バトルワイズ[VI]",
@@ -7321,19 +7321,19 @@
   },
   "191600": {
     "name": "Cコンボプラス・モラール[II]",
-    "shortDescription": "Charge Combo時Charge数+1 / MP Gain UP [II]"
+    "shortDescription": "Charge Combo時Charge数+1 / MP Gain DOWN UP [II]"
   },
   "191601": {
     "name": "Cコンボプラス・モラール[III]",
-    "shortDescription": "Charge Combo時Charge数+2 / MP Gain UP [III]"
+    "shortDescription": "Charge Combo時Charge数+2 / MP Gain DOWN UP [III]"
   },
   "191700": {
     "name": "ディリジェンス・アピール[VII]",
-    "shortDescription": "Guaranteed Taunt / DEF UP [VII] / MP Gain UP [VII] (Self/1 Turn)"
+    "shortDescription": "Guaranteed Taunt / DEF UP [VII] / MP Gain DOWN UP [VII] (Self/1 Turn)"
   },
   "191701": {
     "name": "ディリジェンス・アピール[VIII]",
-    "shortDescription": "Guaranteed Taunt / DEF UP [VIII] / MP Gain UP [VIII] (Self/1 Turn)"
+    "shortDescription": "Guaranteed Taunt / DEF UP [VIII] / MP Gain DOWN UP [VIII] (Self/1 Turn)"
   },
   "191800": {
     "name": "Regenerate Blade [II]",
@@ -7361,19 +7361,19 @@
   },
   "192100": {
     "name": "マナチャージ[IV]",
-    "shortDescription": "MP回復[IV](Self)"
+    "shortDescription": "MP Restore [IV] (Self)"
   },
   "192101": {
     "name": "マナチャージ[V]",
-    "shortDescription": "MP回復[V](Self)"
+    "shortDescription": "MP Restore [V] (Self)"
   },
   "192200": {
     "name": "インビジブル・スラッシュ[VI]",
-    "shortDescription": "Negate Evade(味全/1T) / Damage Inflicted UP [VI] (Self/1 Turn)"
+    "shortDescription": "Negate Evade (Team/1 Turn) / Damage Inflicted UP [VI] (Self/1 Turn)"
   },
   "192201": {
     "name": "インビジブル・スラッシュ[VII]",
-    "shortDescription": "Negate Evade(味全/1T) / Damage Inflicted UP [VII] (Self/1 Turn)"
+    "shortDescription": "Negate Evade (Team/1 Turn) / Damage Inflicted UP [VII] (Self/1 Turn)"
   },
   "192300": {
     "name": "ウィークネス[II]",
@@ -7472,11 +7472,11 @@
     "shortDescription": "Blast Damage UP [IV] / Accele MP UP [III]"
   },
   "193500": {
-    "name": "Uplift ・アデプト[III]",
+    "name": "Uplift Adept [III]",
     "shortDescription": "ATK UP [III] / Status Ailment Resistance UP [II]"
   },
   "193501": {
-    "name": "Uplift ・アデプト[III]",
+    "name": "Uplift Adept [III]",
     "shortDescription": "ATK UP [III] / Status Ailment Resistance UP [II]"
   },
   "193600": {
@@ -7505,18 +7505,18 @@
   },
   "193900": {
     "name": "ジ・アンサー[II]",
-    "shortDescription": "Damage UP [II] / ATK UP [II] / MP Gain UP [III]"
+    "shortDescription": "Damage UP [II] / ATK UP [II] / MP Gain DOWN UP [III]"
   },
   "193901": {
     "name": "ジ・アンサー[III]",
-    "shortDescription": "Damage UP [III] / ATK UP [II] / MP Gain UP [IV]"
+    "shortDescription": "Damage UP [III] / ATK UP [II] / MP Gain DOWN UP [IV]"
   },
   "194000": {
-    "name": "グロー・アデプト[IV]",
+    "name": "Glow Adept [IV]",
     "shortDescription": "ATK UP [IV] / DEF UP [III] / Status Ailment Resistance UP [II]"
   },
   "194001": {
-    "name": "グロー・アデプト[V]",
+    "name": "Glow Adept [V]",
     "shortDescription": "ATK UP [V] / DEF UP [IV] / Status Ailment Resistance UP [III]"
   },
   "194100": {
@@ -7536,11 +7536,11 @@
     "shortDescription": "Remove Debuffs (Self)"
   },
   "194300": {
-    "name": "エピソードブルーム・アデプト[IV]",
+    "name": "エピソードBloom Adept [IV]",
     "shortDescription": "Increases Episode Points Earned [IV] / ATK UP [II] / DEF UP [II]"
   },
   "194301": {
-    "name": "エピソードブルーム・アデプト[IV]",
+    "name": "エピソードBloom Adept [IV]",
     "shortDescription": "Increases Episode Points Earned [IV] / ATK UP [II] / DEF UP [II]"
   },
   "194400": {
@@ -7560,19 +7560,19 @@
     "shortDescription": "必ずマギア不可 (Target/1 Turn) / Damage Inflicted DOWN [IX] (All Foes/1 Turn)"
   },
   "194600": {
-    "name": "ディストラクション[IX]",
+    "name": "Distraction [IX]",
     "shortDescription": "Magia Damage DOWN [IX] / ATK DOWN [II] (Target/1 Turn)"
   },
   "194601": {
-    "name": "ディストラクション[X]",
+    "name": "Distraction [X]",
     "shortDescription": "Magia Damage DOWN [X] / ATK DOWN [III] (Target/1 Turn)"
   },
   "194700": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "194701": {
-    "name": "ブルーム・アデプト[III]",
+    "name": "Bloom Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [III]"
   },
   "194800": {
@@ -7585,27 +7585,27 @@
   },
   "194900": {
     "name": "モラール・ダウン[IV]",
-    "shortDescription": "ATK DOWN [IV] / MP獲得量 DOWN[VIII] (All Foes/1 Turn)"
+    "shortDescription": "ATK DOWN [IV] / MP Gain DOWN DOWN [VIII] (All Foes/1 Turn)"
   },
   "194901": {
     "name": "モラール・ダウン[V]",
-    "shortDescription": "ATK DOWN [V] / MP獲得量 DOWN[IX] (All Foes/1 Turn)"
+    "shortDescription": "ATK DOWN [V] / MP Gain DOWN DOWN [IX] (All Foes/1 Turn)"
   },
   "195000": {
     "name": "ブルーム・サークル[III]",
-    "shortDescription": "ATK UP [III] / DEF UP [III](味全/1T)"
+    "shortDescription": "ATK UP [III] / DEF UP [III] (Team/1 Turn)"
   },
   "195001": {
     "name": "ブルーム・サークル[III]",
-    "shortDescription": "ATK UP [III] / DEF UP [III](味全/1T)"
+    "shortDescription": "ATK UP [III] / DEF UP [III] (Team/1 Turn)"
   },
   "195100": {
     "name": "ブレイブ・スピリット[V]",
-    "shortDescription": "Accele MP UP [V] / MP Gain UP [IV] / ATK UP [I]"
+    "shortDescription": "Accele MP UP [V] / MP Gain DOWN UP [IV] / ATK UP [I]"
   },
   "195101": {
     "name": "ブレイブ・スピリット[VI]",
-    "shortDescription": "Accele MP UP [VI] / MP Gain UP [V] / ATK UP [II]"
+    "shortDescription": "Accele MP UP [VI] / MP Gain DOWN UP [V] / ATK UP [II]"
   },
   "195200": {
     "name": "ウォーリアステップ・アデプト[III]",
@@ -7632,27 +7632,27 @@
     "shortDescription": "Blast Damage UP [VI] / Blast攻撃時MP獲得[IV]"
   },
   "195500": {
-    "name": "Penetrating Attack [XⅠ]",
-    "shortDescription": "ATK UP [XⅠ] / Chance to Ignore Defense [XⅠ] (Self/1 Turn)"
+    "name": "Penetrating Attack [XI]",
+    "shortDescription": "ATK UP [XI] / Chance to Ignore Defense [XI] (Self/1 Turn)"
   },
   "195501": {
     "name": "Penetrating Attack [XⅡ]",
     "shortDescription": "ATK UP [XⅡ] / Chance to Ignore Defense [XⅡ] (Self/1 Turn)"
   },
   "195600": {
-    "name": "ダーク・アデプト[VII]",
-    "shortDescription": "闇属性ATK UP [VII] / ATK UP [II]"
+    "name": "Dark Adept[VII]",
+    "shortDescription": "Dark ATK UP [VII] / ATK UP [II]"
   },
   "195601": {
-    "name": "ダーク・アデプト[VIII]",
-    "shortDescription": "闇属性ATK UP [VIII] / ATK UP [III]"
+    "name": "Dark Adept[VIII]",
+    "shortDescription": "Dark ATK UP [VIII] / ATK UP [III]"
   },
   "195700": {
-    "name": "ワールウィンド[VII]",
+    "name": "Whirlwind [VII]",
     "shortDescription": "Critical Hit Chance [VII] / Evade Chance [VI] (Self/1 Turn)"
   },
   "195701": {
-    "name": "ワールウィンド[VII]",
+    "name": "Whirlwind [VII]",
     "shortDescription": "Critical Hit Chance [VII] / Evade Chance [VI] (Self/1 Turn)"
   },
   "195800": {
@@ -7672,52 +7672,52 @@
     "shortDescription": "Blast Damage UP [V] / Accele MP UP [V] (Self/1 Turn)"
   },
   "196000": {
-    "name": "ハートウォーム・アデプト[IV]",
+    "name": "Heartwarm Adept [IV]",
     "shortDescription": "Increases Episode Points Earned [IV] / HP Regen [IV]"
   },
   "196001": {
-    "name": "ハートウォーム・アデプト[IV]",
+    "name": "Heartwarm Adept [IV]",
     "shortDescription": "Increases Episode Points Earned [IV] / HP Regen [IV]"
   },
   "196100": {
-    "name": "Guard Master ・サークル[III]",
-    "shortDescription": "DEF UP [III](味全/3T)"
+    "name": "Guard Master Circle [III]",
+    "shortDescription": "DEF UP [III] (Team/3 Turns)"
   },
   "196101": {
-    "name": "Guard Master ・サークル[III]",
-    "shortDescription": "DEF UP [III](味全/3T)"
+    "name": "Guard Master Circle [III]",
+    "shortDescription": "DEF UP [III] (Team/3 Turns)"
   },
   "196200": {
-    "name": "ディリジェンス・アデプト[V]",
-    "shortDescription": "DEF UP [V] / MP Gain UP [III]"
+    "name": "Diligence Adept [V]",
+    "shortDescription": "DEF UP [V] / MP Gain DOWN UP [III]"
   },
   "196201": {
-    "name": "ディリジェンス・アデプト[VI]",
-    "shortDescription": "DEF UP [VI] / MP Gain UP [IV]"
+    "name": "Diligence Adept [VI]",
+    "shortDescription": "DEF UP [VI] / MP Gain DOWN UP [IV]"
   },
   "196300": {
-    "name": "クリア・スピリット[III]",
-    "shortDescription": "Accele MP UP [III] / MP Gain UP [II] / Damage Inflicted UP [III]"
+    "name": "Clear Spirit [III]",
+    "shortDescription": "Accele MP UP [III] / MP Gain DOWN UP [II] / Damage Inflicted UP [III]"
   },
   "196301": {
-    "name": "クリア・スピリット[IV]",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [III] / Damage Inflicted UP [IV]"
+    "name": "Clear Spirit [IV]",
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [III] / Damage Inflicted UP [IV]"
   },
   "196400": {
-    "name": "グラムイミュニティライズ[III]",
+    "name": "Glam Immunity Master [III]",
     "shortDescription": "Accele MP UP [III] / Status Ailment Resistance UP [II] (Self/3 Turns)"
   },
   "196401": {
-    "name": "グラムイミュニティライズ[IV]",
+    "name": "Glam Immunity Master [IV]",
     "shortDescription": "Accele MP UP [IV] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "196500": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "196501": {
-    "name": "リムーブスペル",
-    "shortDescription": "バフ解除(敵単/アビリティは解除不可)"
+    "name": "Remove Spell",
+    "shortDescription": "Remove Buffs (Target/Doesn't affect Abilities)"
   },
   "196600": {
     "name": "アージェント・アタック[IV]",
@@ -7728,20 +7728,20 @@
     "shortDescription": "対魔女Damage UP [IV] / ATK UP [III]"
   },
   "196700": {
-    "name": "マギアシールド・サークル[VI]",
-    "shortDescription": "マギアReduce Damage [VI](味全/1T)"
+    "name": "Magia Shield ・サークル[VI]",
+    "shortDescription": "Reduce Magia Damage [VI] (Team/1 Turn)"
   },
   "196701": {
-    "name": "マギアシールド・サークル[VI]",
-    "shortDescription": "マギアReduce Damage [VI](味全/1T)"
+    "name": "Magia Shield ・サークル[VI]",
+    "shortDescription": "Reduce Magia Damage [VI] (Team/1 Turn)"
   },
   "196800": {
     "name": "イグノアデバフ・サークル[I]",
-    "shortDescription": "デバフ効果を1回無効(味全/3T)"
+    "shortDescription": "デバフ効果を1回無効 (Team/3 Turns)"
   },
   "196801": {
     "name": "イグノアデバフ・サークル[I]",
-    "shortDescription": "デバフ効果を1回無効(味全/3T)"
+    "shortDescription": "デバフ効果を1回無効 (Team/3 Turns)"
   },
   "196900": {
     "name": "Penetrate・クライシス[V]",
@@ -7785,11 +7785,11 @@
   },
   "197400": {
     "name": "バタリングラム・アデプト[V]",
-    "shortDescription": "確率でダメージカット無視[V] / Damage UP [IV]"
+    "shortDescription": "Chance to Ignore Reduce Damage [V] / Damage UP [IV]"
   },
   "197401": {
     "name": "バタリングラム・アデプト[VII]",
-    "shortDescription": "確率でダメージカット無視[VII] / Damage UP [V]"
+    "shortDescription": "Chance to Ignore Reduce Damage [VII] / Damage UP [V]"
   },
   "197500": {
     "name": "カタストロフ[VII]",
@@ -7809,26 +7809,26 @@
   },
   "197700": {
     "name": "永遠の刻",
-    "shortDescription": "バフ効果を延長(味全/1T) / デバフ効果を延長 (Target/1 Turn)"
+    "shortDescription": "バフ効果を延長 (Team/1 Turn) / デバフ効果を延長 (Target/1 Turn)"
   },
   "197701": {
     "name": "永遠の刻",
-    "shortDescription": "バフ効果を延長(味全/1T) / デバフ効果を延長 (Target/1 Turn)"
+    "shortDescription": "バフ効果を延長 (Team/1 Turn) / デバフ効果を延長 (Target/1 Turn)"
   },
   "197800": {
-    "name": "グリッターライズ[V]",
-    "shortDescription": "ATK UP [V] / MP Gain UP [III] (Self/3 Turns)"
+    "name": "Glitterize [V]",
+    "shortDescription": "ATK UP [V] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "197801": {
-    "name": "グリッターライズ[VI]",
-    "shortDescription": "ATK UP [VI] / MP Gain UP [IV] (Self/3 Turns)"
+    "name": "Glitterize [VI]",
+    "shortDescription": "ATK UP [VI] / MP Gain DOWN UP [IV] (Self/3 Turns)"
   },
   "197900": {
-    "name": "エリミネイトアップ[III]",
+    "name": "Eliminate Up [III]",
     "shortDescription": "Blast Damage UP [III] / Magia Damage UP [II] (Self/1 Turn)"
   },
   "197901": {
-    "name": "エリミネイトアップ[V]",
+    "name": "Eliminate Up [V]",
     "shortDescription": "Blast Damage UP [V] / Magia Damage UP [IV] (Self/1 Turn)"
   },
   "198000": {
@@ -7864,11 +7864,11 @@
     "shortDescription": "対魔女Damage UP [IV] / Magia Damage UP [V]"
   },
   "198400": {
-    "name": "アサルトブレイク[V]",
+    "name": "Assault Break [V]",
     "shortDescription": "ATK DOWN [V] / Damage Inflicted DOWN [III] (Target/3 Turns)"
   },
   "198401": {
-    "name": "アサルトブレイク[VI]",
+    "name": "Assault Break [VI]",
     "shortDescription": "ATK DOWN [VI] / Damage Inflicted DOWN [IV] (Target/3 Turns)"
   },
   "198500": {
@@ -7944,11 +7944,11 @@
     "shortDescription": "ATK UP [II] / Negate Skill Seal"
   },
   "199400": {
-    "name": "アサルトブレイク[II]",
+    "name": "Assault Break [II]",
     "shortDescription": "ATK DOWN [II] / Damage Inflicted DOWN [II] (Target/3 Turns)"
   },
   "199401": {
-    "name": "アサルトブレイク[II]",
+    "name": "Assault Break [II]",
     "shortDescription": "ATK DOWN [II] / Damage Inflicted DOWN [II] (Target/3 Turns)"
   },
   "199500": {
@@ -7976,11 +7976,11 @@
     "shortDescription": "ATK UP when near-fainting [VII] / DEF UP when near-fainting [IV] / Blast Damage UP [VI]"
   },
   "199800": {
-    "name": "ナローシールド[VI]",
+    "name": "Narrow Shield [VI]",
     "shortDescription": "ATK UP when near-fainting [VI] / DEF UP when near-fainting [III] / Reduce Damage [III]"
   },
   "199801": {
-    "name": "ナローシールド[VII]",
+    "name": "Narrow Shield [VII]",
     "shortDescription": "ATK UP when near-fainting [VII] / DEF UP when near-fainting [IV] / Reduce Damage [IV]"
   },
   "199900": {
@@ -8000,11 +8000,11 @@
     "shortDescription": "Remove Debuffs (Self)"
   },
   "200100": {
-    "name": "リバティ[IV]",
+    "name": "Liberty [IV]",
     "shortDescription": "ATK UP [IV] / Negate Bind"
   },
   "200101": {
-    "name": "リバティ[IV]",
+    "name": "Liberty [IV]",
     "shortDescription": "ATK UP [IV] / Negate Bind"
   },
   "200200": {
@@ -8057,11 +8057,11 @@
   },
   "200800": {
     "name": "グリッター・ボーカル[III]",
-    "shortDescription": "MP Gain UP [III] / ATK UP [I] / Negate Skill Seal"
+    "shortDescription": "MP Gain DOWN UP [III] / ATK UP [I] / Negate Skill Seal"
   },
   "200801": {
     "name": "グリッター・ボーカル[IV]",
-    "shortDescription": "MP Gain UP [IV] / ATK UP [II] / Negate Skill Seal"
+    "shortDescription": "MP Gain DOWN UP [IV] / ATK UP [II] / Negate Skill Seal"
   },
   "200900": {
     "name": "Penetrateライジング[VI]",
@@ -8096,11 +8096,11 @@
     "shortDescription": "火属性ATK UP [IV] / ATK UP [III] (Self/3 Turns)"
   },
   "201300": {
-    "name": "フルスウィングライズ[VII]",
+    "name": "Full Swing Master [VII]",
     "shortDescription": "Damage After Using Charge UP [VII] / Blast Damage UP [IV] (Self/1 Turn)"
   },
   "201301": {
-    "name": "フルスウィングライズ[VII]",
+    "name": "Full Swing Master [VII]",
     "shortDescription": "Damage After Using Charge UP [VII] / Blast Damage UP [IV] (Self/1 Turn)"
   },
   "201400": {
@@ -8112,36 +8112,36 @@
     "shortDescription": "Damage After Using Charge UP [III] / Blast Damage UP [II]"
   },
   "201500": {
-    "name": "アサルトブレイク[III]",
+    "name": "Assault Break [III]",
     "shortDescription": "ATK DOWN [III] / Damage Inflicted DOWN [III] (Target/3 Turns)"
   },
   "201501": {
-    "name": "アサルトブレイク[III]",
+    "name": "Assault Break [III]",
     "shortDescription": "ATK DOWN [III] / Damage Inflicted DOWN [III] (Target/3 Turns)"
   },
   "201600": {
     "name": "アドレナリンラッシュ",
-    "shortDescription": "Magia Damage UP [IX] (Self/1 Turn) / MP回復[XX](Self) / 自身にダメージ(現在HPの80%)"
+    "shortDescription": "Magia Damage UP [IX] (Self/1 Turn) / MP Restore [XX] (Self) / 自身にダメージ(現在HPの80%)"
   },
   "201601": {
     "name": "アドレナリンラッシュ",
-    "shortDescription": "Magia Damage UP [IX] (Self/1 Turn) / MP回復[XX](Self) / 自身にダメージ(現在HPの80%)"
+    "shortDescription": "Magia Damage UP [IX] (Self/1 Turn) / MP Restore [XX] (Self) / 自身にダメージ(現在HPの80%)"
   },
   "201700": {
     "name": "アイズオンミー",
-    "shortDescription": "Charm(2 Turns) Chance upon Attack [III] / Accele MP UP [VI] / MP Gain UP [V]"
+    "shortDescription": "Charm(2 Turns) Chance upon Attack [III] / Accele MP UP [VI] / MP Gain DOWN UP [V]"
   },
   "201701": {
     "name": "アイズオンミー",
-    "shortDescription": "Charm(2 Turns) Chance upon Attack [III] / Accele MP UP [VI] / MP Gain UP [V]"
+    "shortDescription": "Charm(2 Turns) Chance upon Attack [III] / Accele MP UP [VI] / MP Gain DOWN UP [V]"
   },
   "201800": {
     "name": "デッドリーPoison ",
-    "shortDescription": "必ず強化毒 / 必ずやけど / 必ず幻惑 (All Foes/3 Turns)"
+    "shortDescription": "必ず強化毒 / Guaranteed Burn / 必ず幻惑 (All Foes/3 Turns)"
   },
   "201801": {
     "name": "デッドリーPoison ",
-    "shortDescription": "必ず強化毒 / 必ずやけど / 必ず幻惑 (All Foes/3 Turns)"
+    "shortDescription": "必ず強化毒 / Guaranteed Burn / 必ず幻惑 (All Foes/3 Turns)"
   },
   "201900": {
     "name": "ウェポンストライクアデプト[VIII]",
@@ -8161,19 +8161,19 @@
   },
   "202100": {
     "name": "エール・アデプト[VII]",
-    "shortDescription": "DEF UP [VII] / MP Regen [V] / MP Gain UP [IV]"
+    "shortDescription": "DEF UP [VII] / MP Regen [V] / MP Gain DOWN UP [IV]"
   },
   "202101": {
     "name": "エール・アデプト[VII]",
-    "shortDescription": "DEF UP [VII] / MP Regen [V] / MP Gain UP [IV]"
+    "shortDescription": "DEF UP [VII] / MP Regen [V] / MP Gain DOWN UP [IV]"
   },
   "202200": {
     "name": "Attack UP ・サークル[IV]",
-    "shortDescription": "ATK UP [IV](味全/1T)"
+    "shortDescription": "ATK UP [IV] (Team/1 Turn)"
   },
   "202201": {
     "name": "Attack UP ・サークル[IV]",
-    "shortDescription": "ATK UP [IV](味全/1T)"
+    "shortDescription": "ATK UP [IV] (Team/1 Turn)"
   },
   "202300": {
     "name": "ドッペル炸裂！",
@@ -8280,20 +8280,20 @@
     "shortDescription": "Evade Chance [VII] / ChargeディスクダメージUP[VI] / Charge Combo時Charge数+3"
   },
   "203600": {
-    "name": "マナスプリング・ガード[XX]",
+    "name": "Mana Spring ・ガード[XX]",
     "shortDescription": "MP Regen [XX] (Self/1 Turn) / DEF UP [VIII] (Self/3 Turns)"
   },
   "203601": {
-    "name": "マナスプリング・ガード[XX]",
+    "name": "Mana Spring ・ガード[XX]",
     "shortDescription": "MP Regen [XX] (Self/1 Turn) / DEF UP [VIII] (Self/3 Turns)"
   },
   "203700": {
     "name": "マナチャージ[XX]",
-    "shortDescription": "MP回復[XX](Self)"
+    "shortDescription": "MP Restore [XX] (Self)"
   },
   "203701": {
     "name": "マナチャージ[XX]",
-    "shortDescription": "MP回復[XX](Self)"
+    "shortDescription": "MP Restore [XX] (Self)"
   },
   "203800": {
     "name": "エンハンス・Uplift [III]",
@@ -8312,11 +8312,11 @@
     "shortDescription": "Reduce Damage [III] / Status Ailment Resistance UP [III] (Self/3 Turns)"
   },
   "204000": {
-    "name": "グロー・アデプト[III]",
+    "name": "Glow Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [II] / Status Ailment Resistance UP [II]"
   },
   "204001": {
-    "name": "グロー・アデプト[III]",
+    "name": "Glow Adept [III]",
     "shortDescription": "ATK UP [III] / DEF UP [II] / Status Ailment Resistance UP [II]"
   },
   "204100": {
@@ -8328,28 +8328,28 @@
     "shortDescription": "Remove Debuffs (Self)"
   },
   "204200": {
-    "name": "クリア・スピリット[III]",
-    "shortDescription": "Accele MP UP [III] / MP Gain UP [III] / Damage Inflicted UP [III]"
+    "name": "Clear Spirit [III]",
+    "shortDescription": "Accele MP UP [III] / MP Gain DOWN UP [III] / Damage Inflicted UP [III]"
   },
   "204201": {
-    "name": "クリア・スピリット[IV]",
-    "shortDescription": "Accele MP UP [IV] / MP Gain UP [IV] / Damage Inflicted UP [IV]"
+    "name": "Clear Spirit [IV]",
+    "shortDescription": "Accele MP UP [IV] / MP Gain DOWN UP [IV] / Damage Inflicted UP [IV]"
   },
   "204300": {
-    "name": "コンフィダント・アデプト[III]",
-    "shortDescription": "DEF UP [III] / MP Gain UP [III] / Get More MP when Hit by Weak Element [I]"
+    "name": "Confidant Adept [III]",
+    "shortDescription": "DEF UP [III] / MP Gain DOWN UP [III] / Get More MP when Hit by Weak Element [I]"
   },
   "204301": {
-    "name": "コンフィダント・アデプト[IV]",
-    "shortDescription": "DEF UP [IV] / MP Gain UP [IV] / Get More MP when Hit by Weak Element [II]"
+    "name": "Confidant Adept [IV]",
+    "shortDescription": "DEF UP [IV] / MP Gain DOWN UP [IV] / Get More MP when Hit by Weak Element [II]"
   },
   "204400": {
     "name": "インテリジェンス・ライズ[II] ",
-    "shortDescription": "Accele MP UP [II] / MP Gain UP [II] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [II] / MP Gain DOWN UP [II] (Self/3 Turns)"
   },
   "204401": {
     "name": "インテリジェンス・ライズ[III] ",
-    "shortDescription": "Accele MP UP [III] / MP Gain UP [III] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [III] / MP Gain DOWN UP [III] (Self/3 Turns)"
   },
   "204500": {
     "name": "Disk Shuffle",
@@ -8361,19 +8361,19 @@
   },
   "204600": {
     "name": "マナ・ブースト[IX]",
-    "shortDescription": "Accele MP UP [IX] / MP Gain UP [IV] / MP Regen [IX] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [IX] / MP Gain DOWN UP [IV] / MP Regen [IX] (Self/3 Turns)"
   },
   "204601": {
     "name": "マナ・ブースト[IX]",
-    "shortDescription": "Accele MP UP [IX] / MP Gain UP [IV] / MP Regen [IX] (Self/3 Turns)"
+    "shortDescription": "Accele MP UP [IX] / MP Gain DOWN UP [IV] / MP Regen [IX] (Self/3 Turns)"
   },
   "204700": {
-    "name": "ネオ・マナアブソーブ[IV]",
-    "shortDescription": "MPダメージ[IV](敵全) / MP Gain UP [X] (Self/1 Turn) / MP回復[XV](Self)"
+    "name": "Neo Magic Absorb [IV]",
+    "shortDescription": "MP Damage [IV](敵全) / MP Gain DOWN UP [X] (Self/1 Turn) / MP Restore [XV] (Self)"
   },
   "204701": {
-    "name": "ネオ・マナアブソーブ[IV]",
-    "shortDescription": "MPダメージ[IV](敵全) / MP Gain UP [X] (Self/1 Turn) / MP回復[XV](Self)"
+    "name": "Neo Magic Absorb [IV]",
+    "shortDescription": "MP Damage [IV](敵全) / MP Gain DOWN UP [X] (Self/1 Turn) / MP Restore [XV] (Self)"
   },
   "204800": {
     "name": "ヴェノム・スレイヤー[V]",
@@ -8385,19 +8385,19 @@
   },
   "204900": {
     "name": "マナ・クリエイション[V]",
-    "shortDescription": "Accele MP UP [V] / MP Gain UP [V] / マギア不可無効"
+    "shortDescription": "Accele MP UP [V] / MP Gain DOWN UP [V] / マギア不可無効"
   },
   "204901": {
     "name": "マナ・クリエイション[V]",
-    "shortDescription": "Accele MP UP [V] / MP Gain UP [V] / マギア不可無効"
+    "shortDescription": "Accele MP UP [V] / MP Gain DOWN UP [V] / マギア不可無効"
   },
   "205000": {
     "name": "アミューズ・ブーシュ[V]",
-    "shortDescription": "火属性ATK UP [V](味全/3T) / Heal [V](味全) / MP回復[V](Self)"
+    "shortDescription": "火属性ATK UP [V] (Team/3 Turns) / Heal [V](味全) / MP Restore [V] (Self)"
   },
   "205001": {
     "name": "アミューズ・ブーシュ[V]",
-    "shortDescription": "火属性ATK UP [V](味全/3T) / Heal [V](味全) / MP回復[V](Self)"
+    "shortDescription": "火属性ATK UP [V] (Team/3 Turns) / Heal [V](味全) / MP Restore [V] (Self)"
   },
   "205100": {
     "name": "グラトン・ナイト[V]",
